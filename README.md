@@ -1,2 +1,2 @@
-# Probability and Statistics
-Ayiti Analytics Probability and Statistics Project
+# Ayiti Analytics Probability and Statistics Project
+
