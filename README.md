@@ -4,7 +4,7 @@
 
 ## Ayiti Analytics Probability and Statistics Project
 
-### 1) Task #1
+### - Task #1
 
 Use all the files to have a final datasets to have the following columns
  <ul>
@@ -26,3 +26,5 @@ Use all the files to have a final datasets to have the following columns
     <li>Have computer at home</li>
     <li>Have internet at home</li>
  </ul>
+
+### - Task #2
