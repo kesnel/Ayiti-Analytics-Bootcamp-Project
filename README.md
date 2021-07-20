@@ -24,5 +24,11 @@ Use all the files to have a final datasets to have the following columns
     <li>Have computer at home</li>
     <li>Have internet at home</li>
  </ul>
+ 
+<br>
+<br>
 
-### Task #2
+<h2 align=center> Dataset Overview </h2>
+
+## 1. Commune
+<img src="docs/images/1.png" alt="Dataset screenshot" />
