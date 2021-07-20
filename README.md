@@ -29,5 +29,19 @@ Use all the files to have a final datasets to have the following columns
 
 <h2 align=center> Dataset Overview </h2>
 
-### 1. Commune
+#### 1. Commune
 <img src="docs/images/1.png" alt="Dataset screenshot" />
+#### 2. Students Enrollment
+<img src="docs/images/2.png" alt="Dataset screenshot" />
+#### 3. Industry
+<img src="docs/images/3.png" alt="Dataset screenshot" />
+#### 4. Orders
+<img src="docs/images/4.png" alt="Dataset screenshot" />
+#### 5. Questions
+<img src="docs/images/5.png" alt="Dataset screenshot" />
+#### 6. Study Domain
+<img src="docs/images/6.png" alt="Dataset screenshot" />
+#### 7. Technical Background
+<img src="docs/images/7.png" alt="Dataset screenshot" />
+#### 8. Transaction
+<img src="docs/images/8.png" alt="Dataset screenshot" />
