@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/kesnel/Ayiti-Analytics-Bootcamp-Project)
 
 
-<h1> <center> Ayiti Analytics Probability and Statistics Project <center/> <h1/>
+<h1 align=center> Ayiti Analytics Probability and Statistics Project <h1/>
 
 ### Task #1
 
