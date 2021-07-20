@@ -52,7 +52,7 @@ Use all the files to have a final datasets to have the following columns
 <img src="img/dataset/6.png" alt="Dataset screenshot" />
 
 #### 7. Technical Background
-<img src="img/dataset/.png" alt="Dataset screenshot" />
+<img src="img/dataset/7.png" alt="Dataset screenshot" />
 
 #### 8. Transaction
 <img src="img/dataset/8.png" alt="Dataset screenshot" />
