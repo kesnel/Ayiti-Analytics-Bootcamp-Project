@@ -26,7 +26,6 @@ Use all the files to have a final datasets to have the following columns
  </ul>
  
 <br>
-<br>
 
 <h2 align=center> Dataset Overview </h2>
 
