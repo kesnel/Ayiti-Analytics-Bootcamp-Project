@@ -6,7 +6,7 @@
 </div>
 
 
-<h1 align=center> Ayiti Analytics Probability and Statistics Project </h1>
+<h1> Ayiti Analytics Probability and Statistics Project </h1>
 
 Use all the files to have a final datasets to have the following columns
  <ul>
