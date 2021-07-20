@@ -2,9 +2,9 @@
 ![GitHub](https://img.shields.io/github/license/kesnel/Ayiti-Analytics-Bootcamp-Project)
 
 
-## Ayiti Analytics Probability and Statistics Project
+<h1> <center> Ayiti Analytics Probability and Statistics Project <center/> <h1/>
 
-### - Task #1
+### Task #1
 
 Use all the files to have a final datasets to have the following columns
  <ul>
@@ -27,4 +27,4 @@ Use all the files to have a final datasets to have the following columns
     <li>Have internet at home</li>
  </ul>
 
-### - Task #2
+### Task #2
