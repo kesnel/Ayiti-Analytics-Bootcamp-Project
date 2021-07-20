@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/kesnel/Ayiti-Analytics-Bootcamp-Project)
 
 
-<h2 align=center> Ayiti Analytics Probability and Statistics Project </h2>
+<h1 align=center> Ayiti Analytics Probability and Statistics Project </h1>
 
 Use all the files to have a final datasets to have the following columns
  <ul>
