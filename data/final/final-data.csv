@@ -1,298 +1,298 @@
-,quest_id,gender,Age,Commune_Name,Application_Date,Enroll_Date,is_enrolled,education_level,Communication_Channels,Bootcamp_Interest,Payment_Date,Paid,List_Technologies,Study_Domains,formal_sector_job,have_computer_home,internet_at_home
-0,9069789e-ce95-11eb-883e-7c67a234f601,male,25,Aquin,2021-02-16 18:14:20.488505+00:00,0,No,Bachelors (bacc +4),Friend,Training to start my own company,0,No,"Java, PHP","Management, Computer Science",unknown,Yes,Yes
-1,906a79ae-ce95-11eb-98c3-7c67a234f601,male,25,Cap-Haitien,2021-02-21 12:38:57.408531+00:00,2021-02-21T12:41:32.008Z,Yes,Bachelors (bacc +4),Facebook,Finding a job/internship,0,No,"Excel, other",other,No,Yes,Yes
-2,906a79af-ce95-11eb-bd36-7c67a234f601,male,33,Cap-Haitien,2021-02-21 16:06:15.024499+00:00,2021-02-23T12:21:53.058Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"Java, PHP, Excel, SQL",Computer Science,unknown,Yes,No
-3,906aa0a0-ce95-11eb-8355-7c67a234f601,male,29,Cap-Haitien,2021-03-03 00:04:49.909094+00:00,2021-03-03T00:12:31.944Z,Yes,Other,Facebook,Mentorship,0,No,0,Law,unknown,Yes,No
-4,906aa0a1-ce95-11eb-899e-7c67a234f601,male,34,Cap-Haitien,2021-03-05 10:29:32.308601+00:00,0,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,0,No,Excel,"Law, other",unknown,Yes,Yes
-5,906aa0a2-ce95-11eb-90cb-7c67a234f601,male,25,Cap-Haitien,2021-03-12 04:42:47.220352+00:00,0,No,Bachelors (bacc +4),Facebook,Training to start my own company,0,No,"R, Python, Excel",Economics,unknown,Yes,Yes
-6,9069789d-ce95-11eb-990c-7c67a234f601,male,27,Caracol,2021-02-16 17:18:55.967122+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"R, SQL, Excel, PowerBI or Tableau, other",other,unknown,Yes,Yes
-7,9066abb6-ce95-11eb-b526-7c67a234f601,male,24,Carrefour,2021-02-16 16:24:18.253185+00:00,2021-02-16T16:49:01.425Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"Java, Excel",Statistics,unknown,Yes,No
-8,9066abb7-ce95-11eb-846d-7c67a234f601,male,29,Carrefour,2021-02-16 16:48:05.493073+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,R,Economics,No,Yes,Yes
-9,9066abb8-ce95-11eb-b61d-7c67a234f601,male,29,Carrefour,2021-02-16 17:10:50.323934+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,Excel,"Economics, Statistics",unknown,Yes,Yes
-10,9066abb9-ce95-11eb-af6a-7c67a234f601,male,24,Carrefour,2021-02-16 17:57:54.429160+00:00,0,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,0,No,"R, Java, Excel","Statistics, Economics",Yes,No,Yes
-11,9066d2aa-ce95-11eb-b221-7c67a234f601,female,29,Carrefour,2021-02-16 23:40:28.554450+00:00,0,No,Bachelors (bacc +4),Bootcamp Alumni,Finding a job/internship,0,No,Excel,other,unknown,Yes,Yes
-12,9066d2ab-ce95-11eb-be67-7c67a234f601,male,23,Carrefour,2021-02-17 00:45:00.560960+00:00,2021-02-20T22:56:24.115Z,Yes,Bachelors (bacc +4),Ayiti Analytics Website,Training to start my own company,2021-02-20T22:56:24.236Z,Yes,"Python, Excel, other",Economics,unknown,Yes,No
-13,9066d2ac-ce95-11eb-8752-7c67a234f601,male,30,Carrefour,2021-02-17 02:49:45.203410+00:00,0,No,Bachelors (bacc +4),Facebook,Finding a job/internship,0,No,"Excel, SQL, PHP",Computer Science,unknown,Yes,Yes
-14,9066d2ad-ce95-11eb-82c7-7c67a234f601,male,25,Carrefour,2021-02-17 03:08:04.319741+00:00,0,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,0,No,"VBA, SQL, Excel",Computer Science,unknown,Yes,Yes
-15,9066faad-ce95-11eb-a4b7-7c67a234f601,female,21,Carrefour,2021-02-17 05:34:46.399289+00:00,0,No,High School (16 years),WhatsApp,Improving my data analysis skills,0,No,"Excel, Python, Java","Management, Law",unknown,Yes,Yes
-16,9066faae-ce95-11eb-9b99-7c67a234f601,female,26,Carrefour,2021-02-17 18:24:05.354476+00:00,0,No,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,0,No,"R, Python, Java, JavaScript, SQL, Excel","Economics, Statistics",unknown,Yes,Yes
-17,9066faaf-ce95-11eb-beb4-7c67a234f601,male,20,Carrefour,2021-02-17 21:40:53.098498+00:00,2021-03-11T19:32:08.189Z,Yes,Other,Facebook,Improving my data analysis skills,2021-03-11T19:32:08.362Z,Yes,"PHP, SQL",Computer Science,unknown,No,No
-18,9066fab0-ce95-11eb-ba75-7c67a234f601,male,24,Carrefour,2021-02-17 21:42:17.623592+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,R,"Economics, Management",unknown,Yes,Yes
-19,9066fab1-ce95-11eb-a4e2-7c67a234f601,female,-1,Carrefour,2021-02-18 15:55:37.861907+00:00,2021-02-18T15:59:18.215Z,Yes,Bachelors (bacc +4),Facebook,Finding a job/internship,0,No,"Excel, JavaScript",other,unknown,Yes,Yes
-20,90672094-ce95-11eb-9bfe-7c67a234f601,female,28,Carrefour,2021-02-18 18:38:19.386286+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,Excel,other,unknown,Yes,Yes
-21,90672095-ce95-11eb-a84d-7c67a234f601,male,25,Carrefour,2021-02-19 13:38:16.645998+00:00,2021-02-19T13:47:49.359Z,Yes,Bachelors (bacc +4),Friend,Training to start my own company,0,No,"Java, JavaScript, PHP, SQL",Computer Science,unknown,Yes,No
-22,90672096-ce95-11eb-9663-7c67a234f601,male,21,Carrefour,2021-02-22 10:31:57.588071+00:00,2021-02-22T10:36:44.434Z,Yes,Other,WhatsApp,Improving my data analysis skills,0,No,Excel,Computer Science,unknown,Yes,Yes
-23,90672097-ce95-11eb-b73b-7c67a234f601,male,32,Carrefour,2021-02-22 18:19:25.534644+00:00,2021-02-22T18:30:31.677Z,Yes,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,2021-02-24T19:23:15.135Z,Yes,"Excel, R, PowerBI or Tableau",Economics,Yes,Yes,No
-24,90674789-ce95-11eb-ac21-7c67a234f601,male,27,Carrefour,2021-02-24 19:31:28.353719+00:00,2021-02-24T19:37:18.680Z,Yes,Masters,Bootcamp Alumni,Improving my data analysis skills,2021-02-24T19:37:18.806Z,Yes,"Python, JavaScript",other,unknown,Yes,Yes
-25,9067478a-ce95-11eb-bc48-7c67a234f601,male,30,Carrefour,2021-02-25 20:16:13.769377+00:00,0,No,Bachelors (bacc +4),Facebook,Switching careers,0,No,"Excel, SQL, VBA, PHP",Computer Science,Yes,Yes,Yes
-26,9067478b-ce95-11eb-aba9-7c67a234f601,female,26,Carrefour,2021-02-26 01:33:19.949570+00:00,0,No,Bachelors (bacc +4),Ayiti Analytics Website,Training to start my own company,0,No,other,Computer Science,unknown,Yes,Yes
-27,9067478c-ce95-11eb-94f6-7c67a234f601,male,24,Carrefour,2021-03-02 18:38:54.971262+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"Java, Excel, SQL",other,unknown,Yes,Yes
-28,90676757-ce95-11eb-85fc-7c67a234f601,male,22,Carrefour,2021-03-03 01:28:33.196307+00:00,0,No,High School (16 years),other,other,0,No,"PHP, SQL, Excel, Bash, Python",Computer Science,unknown,Yes,Yes
-29,90677020-ce95-11eb-a2f6-7c67a234f601,male,20,Carrefour,2021-03-03 20:27:18.237080+00:00,0,No,High School (16 years),Friend,Improving my data analysis skills,0,No,R,Economics,unknown,Yes,Yes
-30,9069a206-ce95-11eb-9c6f-7c67a234f601,female,-1,Cite Soleil,2021-02-17 14:12:06.298936+00:00,0,No,Other,ESIH,Improving my data analysis skills,0,No,"PHP, SQL",Computer Science,unknown,Yes,Yes
-31,9069a207-ce95-11eb-9148-7c67a234f601,male,28,Cite Soleil,2021-02-18 02:43:54.127582+00:00,0,No,Other,WhatsApp,Improving my data analysis skills,0,No,Excel,Medicine,unknown,Yes,Yes
-32,9069b6e0-ce95-11eb-9f22-7c67a234f601,male,20,Cite Soleil,2021-03-01 13:52:56.086418+00:00,0,No,Bachelors (bacc +4),WhatsApp,Mentorship,0,No,"Python, JavaScript, PHP",Management,No,Yes,Yes
-33,906a04c8-ce95-11eb-b468-7c67a234f601,male,40,Cornillon / Grand Bois,2021-02-19 11:33:21.210586+00:00,2021-02-21T06:03:46.436Z,Yes,Bachelors (bacc +4),Ayiti Analytics Website,Finding a job/internship,2021-02-21T06:03:46.665Z,Yes,"Excel, SQL, PHP, Java",Computer Science,unknown,Yes,Yes
-34,90691afb-ce95-11eb-a4c3-7c67a234f601,male,-1,Croix-Des-Bouquets,2021-02-16 17:08:47.869483+00:00,2021-03-13T03:54:12.215Z,Yes,Bachelors (bacc +4),WhatsApp,Training to start my own company,2021-03-13T03:54:12.406Z,Yes,"Java, Python, JavaScript, PHP, SQL, Git",Computer Science,unknown,Yes,Yes
-35,90691afc-ce95-11eb-98d0-7c67a234f601,male,23,Croix-Des-Bouquets,2021-02-16 18:00:27.393460+00:00,0,No,High School (16 years),Instagram,Finding a job/internship,0,No,"Excel, PowerBI or Tableau",other,unknown,Yes,Yes
-36,90691afd-ce95-11eb-b77d-7c67a234f601,male,28,Croix-Des-Bouquets,2021-02-16 21:05:32.642234+00:00,2021-02-16T21:13:48.783Z,Yes,Bachelors (bacc +4),Friend,Switching careers,0,No,"PHP, Excel, SQL",Computer Science,unknown,Yes,Yes
-37,90691afe-ce95-11eb-bc64-7c67a234f601,male,20,Croix-Des-Bouquets,2021-02-17 03:06:37.042152+00:00,2021-02-17T03:19:47.548Z,Yes,High School (16 years),ESIH,Training to start my own company,0,No,Excel,"Computer Science, Accounting",unknown,Yes,Yes
-38,90694207-ce95-11eb-b358-7c67a234f601,male,28,Croix-Des-Bouquets,2021-02-19 23:07:18.188256+00:00,0,No,Bachelors (bacc +4),Friend,Training to start my own company,0,No,Excel,Management,unknown,Yes,Yes
-39,90694e10-ce95-11eb-b312-7c67a234f601,male,33,Croix-Des-Bouquets,2021-02-20 15:03:34.162936+00:00,0,No,Other,Facebook,Improving my data analysis skills,0,No,Excel,Computer Science,unknown,Yes,No
-40,90694e11-ce95-11eb-838b-7c67a234f601,male,27,Croix-Des-Bouquets,2021-02-24 21:55:07.312669+00:00,0,No,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,0,No,"R, Python, Excel",other,unknown,Yes,Yes
-41,90694e12-ce95-11eb-812d-7c67a234f601,male,23,Croix-Des-Bouquets,2021-02-25 23:23:17.756155+00:00,0,No,High School (16 years),Friend,Finding a job/internship,0,No,Python,Computer Science,unknown,Yes,No
-42,90694e13-ce95-11eb-bb46-7c67a234f601,male,30,Croix-Des-Bouquets,2021-03-10 15:16:55.721729+00:00,2021-03-11T17:21:08.831Z,Yes,Other,Facebook,Finding a job/internship,2021-03-11T17:21:09.148Z,Yes,Excel,other,unknown,Yes,Yes
-43,906968f5-ce95-11eb-9e1a-7c67a234f601,male,23,Croix-Des-Bouquets,2021-03-12 18:32:38.443553+00:00,2021-03-12T19:29:28.112Z,Yes,Masters,Friend,Improving my data analysis skills,2021-03-12T19:29:22.832Z,Yes,"Excel, PowerBI or Tableau",other,Yes,Yes,Yes
-44,90625b11-ce95-11eb-b351-7c67a234f601,male,28,Delmas,2021-02-16 01:05:44.369849+00:00,0,No,Bachelors (bacc +4),Bootcamp Alumni,unknown,0,No,"SQL, PHP, JavaScript, Java, Python, Excel, Git",Computer Science,Yes,Yes,Yes
-45,90626928-ce95-11eb-8f5e-7c67a234f601,male,24,Delmas,2021-02-16 16:26:21.193125+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"SQL, Java, Python, Excel","Economics, Management",unknown,Yes,Yes
-46,90626929-ce95-11eb-86fe-7c67a234f601,male,26,Delmas,2021-02-16 16:27:10.480908+00:00,0,No,Bachelors (bacc +4),Friend,Training to start my own company,0,No,Excel,Computer Science,unknown,Yes,No
-47,9062692a-ce95-11eb-8ab8-7c67a234f601,male,23,Delmas,2021-02-16 16:36:10.222174+00:00,2021-02-24T14:42:56.475Z,Yes,High School (16 years),Friend,Improving my data analysis skills,2021-02-24T14:42:56.637Z,Yes,"Python, other",Management,unknown,Yes,No
-48,90628a02-ce95-11eb-9291-7c67a234f601,male,25,Delmas,2021-02-16 17:00:03.452712+00:00,2021-02-16T17:51:35.464Z,Yes,Bachelors (bacc +4),WhatsApp,Finding a job/internship,2021-02-16T14:04:48Z,Yes,Excel,"Management, Economics",unknown,Yes,Yes
-49,90628fbe-ce95-11eb-bb9e-7c67a234f601,female,22,Delmas,2021-02-16 17:02:05.952824+00:00,0,No,Other,Friend,Improving my data analysis skills,0,No,Excel,other,unknown,Yes,Yes
-50,90628fbf-ce95-11eb-819c-7c67a234f601,male,23,Delmas,2021-02-16 17:12:01.065900+00:00,2021-02-16T17:18:51.956Z,Yes,Other,Bootcamp Alumni,Improving my data analysis skills,2021-02-16T14:04:48Z,Yes,"R, Python, SQL, PowerBI or Tableau, Excel","Statistics, Economics",unknown,Yes,Yes
-51,90628fc0-ce95-11eb-8dae-7c67a234f601,male,22,Delmas,2021-02-16 17:12:43.244960+00:00,2021-02-04T22:48:10.874Z,Yes,High School (16 years),Friend,Improving my data analysis skills,2021-02-22T17:12:27.102Z,Yes,"Python, PHP, SQL, Excel, Git",Computer Science,unknown,Yes,Yes
-52,9062b753-ce95-11eb-8959-7c67a234f601,male,26,Delmas,2021-02-16 17:15:53.886009+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,Java,other,unknown,Yes,Yes
-53,9062b754-ce95-11eb-b31e-7c67a234f601,male,24,Delmas,2021-02-16 17:41:52.503398+00:00,2021-02-17T10:58:44.017Z,Yes,High School (16 years),Instagram,Finding a job/internship,2021-02-17T11:08:54.385Z,Yes,Excel,other,unknown,Yes,Yes
-54,9062b755-ce95-11eb-85a2-7c67a234f601,female,27,Delmas,2021-02-16 21:06:25.264996+00:00,2021-02-16T21:29:47.980Z,Yes,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,2021-02-22T17:29:44.762Z,Yes,Excel,Management,unknown,No,Yes
-55,9062ddb1-ce95-11eb-bd2f-7c67a234f601,male,37,Delmas,2021-02-16 22:07:20.111410+00:00,0,No,Bachelors (bacc +4),WhatsApp,Finding a job/internship,0,No,Excel,Management,Yes,Yes,Yes
-56,9062ddb2-ce95-11eb-89d0-7c67a234f601,male,25,Delmas,2021-02-16 22:15:07.433512+00:00,0,No,Bachelors (bacc +4),WhatsApp,Finding a job/internship,0,No,"JavaScript, PHP, SQL, Java, Git",Computer Science,Yes,Yes,No
-57,9062ddb3-ce95-11eb-acc8-7c67a234f601,female,21,Delmas,2021-02-17 01:30:06.750403+00:00,0,No,Bachelors (bacc +4),Instagram,Training to start my own company,0,No,"Excel, Java",Management,unknown,Yes,Yes
-58,906304a6-ce95-11eb-b475-7c67a234f601,female,22,Delmas,2021-02-17 04:12:02.173025+00:00,0,No,High School (16 years),Ayiti Analytics Website,Improving my data analysis skills,0,No,"R, Java, JavaScript, PHP, Git, Excel, SQL",Computer Science,unknown,Yes,Yes
-59,906304a7-ce95-11eb-b805-7c67a234f601,male,25,Delmas,2021-02-17 07:18:23.439309+00:00,0,No,Other,Friend,Mentorship,0,No,"Java, SQL, PHP",Computer Science,unknown,Yes,Yes
-60,90632b9f-ce95-11eb-bb7f-7c67a234f601,male,22,Delmas,2021-02-17 09:08:05.640189+00:00,2021-02-17T09:11:52.453Z,Yes,Other,LinkedIn,Training to start my own company,0,No,"JavaScript, Excel",other,unknown,Yes,Yes
-61,90632ba0-ce95-11eb-b7c2-7c67a234f601,male,24,Delmas,2021-02-17 11:54:21.197058+00:00,2021-02-17T11:57:37.102Z,Yes,High School (16 years),WhatsApp,Finding a job/internship,0,No,other,Law,Yes,Yes,Yes
-62,9063799a-ce95-11eb-b32b-7c67a234f601,male,25,Delmas,2021-02-17 12:43:01.698895+00:00,0,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,0,No,"JavaScript, Java, PHP, SQL, Excel, Bash","Computer Science, Management",unknown,Yes,Yes
-63,9063a260-ce95-11eb-87e8-7c67a234f601,male,37,Delmas,2021-02-17 12:50:31.776340+00:00,2021-02-17T13:13:12.166Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"Java, PHP, Excel, Git",Computer Science,Yes,Yes,Yes
-64,9063c77d-ce95-11eb-a120-7c67a234f601,male,25,Delmas,2021-02-17 12:53:03.071352+00:00,0,No,Other,WhatsApp,Finding a job/internship,0,No,"Excel, other",Accounting,unknown,Yes,Yes
-65,9063c77e-ce95-11eb-81b3-7c67a234f601,male,33,Delmas,2021-02-17 13:22:04.308751+00:00,0,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,0,No,"other, Excel",other,unknown,Yes,Yes
-66,9063ee76-ce95-11eb-a84b-7c67a234f601,male,24,Delmas,2021-02-17 23:09:22.751788+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"PHP, SQL, Excel, Java, Git",Computer Science,unknown,Yes,Yes
-67,9063ee77-ce95-11eb-9098-7c67a234f601,male,21,Delmas,2021-02-18 00:53:55.732450+00:00,0,No,High School (16 years),Instagram,Training to start my own company,0,No,JavaScript,other,unknown,No,Yes
-68,9063ee78-ce95-11eb-a8d6-7c67a234f601,male,40,Delmas,2021-02-18 02:47:30.244082+00:00,2021-02-18T02:53:51.024Z,Yes,Other,LinkedIn,Switching careers,0,No,"Git, SQL, JavaScript, other, R",Computer Science,unknown,Yes,Yes
-69,90642613-ce95-11eb-8b26-7c67a234f601,male,28,Delmas,2021-02-18 03:40:41.168167+00:00,2021-02-18T19:22:10.715Z,Yes,Bachelors (bacc +4),ESIH,Improving my data analysis skills,2021-02-18T22:06:50.519Z,Yes,"PHP, Java, SQL, Excel, JavaScript",Computer Science,unknown,Yes,Yes
-70,90642614-ce95-11eb-8db0-7c67a234f601,male,23,Delmas,2021-02-18 04:28:39.304650+00:00,0,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,0,No,"SQL, Excel, Java, PHP","Computer Science, Management",unknown,Yes,Yes
-71,90643c59-ce95-11eb-aec2-7c67a234f601,male,31,Delmas,2021-02-18 05:22:51.606029+00:00,2021-02-18T05:29:55.849Z,Yes,Bachelors (bacc +4),Friend,Finding a job/internship,0,No,"Python, Java, Excel, Git, SQL, PHP","Electrical Engineering, Computer Science",unknown,Yes,Yes
-72,90643c5a-ce95-11eb-b510-7c67a234f601,male,24,Delmas,2021-02-18 11:44:40.031598+00:00,2021-02-21T15:55:59.494Z,Yes,Other,Friend,Training to start my own company,2021-02-21T15:55:59.689Z,Yes,"Java, JavaScript, PHP",Computer Science,Yes,Yes,Yes
-73,90646353-ce95-11eb-9f27-7c67a234f601,male,29,Delmas,2021-02-18 12:45:07.226754+00:00,0,No,Other,Friend,Training to start my own company,0,No,"Excel, other",other,unknown,Yes,No
-74,90646354-ce95-11eb-a5c9-7c67a234f601,male,46,Delmas,2021-02-18 13:42:10.493306+00:00,2021-02-18T13:46:19.814Z,Yes,Bachelors (bacc +4),LinkedIn,Training to start my own company,0,No,"Python, Excel",Economics,Yes,Yes,Yes
-75,90646355-ce95-11eb-ae9f-7c67a234f601,male,26,Delmas,2021-02-18 14:52:39.191595+00:00,0,No,Bachelors (bacc +4),Friend,Switching careers,0,No,Excel,other,unknown,Yes,No
-76,9064923a-ce95-11eb-a2ad-7c67a234f601,female,23,Delmas,2021-02-18 15:13:14.212518+00:00,2021-02-18T15:21:09.315Z,Yes,Other,Facebook,Improving my data analysis skills,2021-02-18T15:21:09.568Z,Yes,"Excel, Java",Economics,unknown,Yes,Yes
-77,9064923b-ce95-11eb-a771-7c67a234f601,male,-1,Delmas,2021-02-18 15:18:22.153494+00:00,0,No,Other,Friend,Improving my data analysis skills,0,No,"SQL, Java",Computer Science,unknown,Yes,Yes
-78,9064b6be-ce95-11eb-b2ac-7c67a234f601,male,22,Delmas,2021-02-18 18:18:36.397314+00:00,2021-02-21T16:00:54.938Z,Yes,Other,Friend,Finding a job/internship,2021-02-21T16:00:55.063Z,Yes,"JavaScript, PHP, Excel","Computer Science, other, Management",unknown,Yes,Yes
-79,9064c427-ce95-11eb-9d48-7c67a234f601,male,30,Delmas,2021-02-19 03:24:03.131040+00:00,2021-02-19T03:29:02.686Z,Yes,Other,WhatsApp,Finding a job/internship,0,No,Excel,other,unknown,Yes,No
-80,9064c428-ce95-11eb-a021-7c67a234f601,male,29,Delmas,2021-02-19 14:16:15.453467+00:00,2021-03-08T17:26:35.715Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-08T17:26:35.841Z,Yes,"Java, JavaScript, PHP, SQL, other",Computer Science,unknown,Yes,No
-81,9064d839-ce95-11eb-8172-7c67a234f601,male,31,Delmas,2021-02-19 16:38:01.548810+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"R, SQL, Excel",Computer Science,Yes,Yes,Yes
-82,9064d83a-ce95-11eb-9bef-7c67a234f601,male,33,Delmas,2021-02-19 16:47:36.901457+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"SQL, Excel",Computer Science,Yes,Yes,Yes
-83,9064d83b-ce95-11eb-a034-7c67a234f601,male,34,Delmas,2021-02-20 08:42:34.174812+00:00,0,No,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,0,No,"Excel, SQL, PowerBI or Tableau, Java, PHP",Computer Science,Yes,Yes,Yes
-84,9064d83c-ce95-11eb-bc96-7c67a234f601,male,29,Delmas,2021-02-20 15:50:20.409971+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"R, VBA, Excel","Accounting, Management",No,Yes,Yes
-85,9064ff26-ce95-11eb-8428-7c67a234f601,male,23,Delmas,2021-02-20 19:05:30.429780+00:00,2021-03-04T18:01:35.290Z,Yes,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,2021-03-04T18:01:35.651Z,Yes,Excel,Accounting,unknown,Yes,Yes
-86,9064ff27-ce95-11eb-aaa6-7c67a234f601,male,30,Delmas,2021-02-21 17:51:13.742572+00:00,2021-02-21T21:51:56.154Z,Yes,Bachelors (bacc +4),LinkedIn,Finding a job/internship,2021-02-21T21:51:56.290Z,Yes,"R, Python, Java, SQL, Excel, PowerBI or Tableau, Bash",other,unknown,Yes,Yes
-87,9064ff28-ce95-11eb-857f-7c67a234f601,female,31,Delmas,2021-02-23 15:28:46.593246+00:00,2021-02-23T15:42:23.175Z,Yes,Masters,Bootcamp Alumni,Improving my data analysis skills,2021-02-23T15:42:17.501Z,Yes,"SQL, Java",Computer Science,Yes,Yes,Yes
-88,9064ff29-ce95-11eb-a3d3-7c67a234f601,female,34,Delmas,2021-02-23 16:25:06.358601+00:00,2021-02-23T16:31:57.817Z,Yes,Masters,WhatsApp,Finding a job/internship,2021-03-11T16:01:17.901Z,Yes,0,Computer Science,unknown,Yes,Yes
-89,9064ff2a-ce95-11eb-8430-7c67a234f601,male,26,Delmas,2021-02-23 16:27:50.579704+00:00,0,No,Other,WhatsApp,Mentorship,0,No,Excel,other,unknown,Yes,Yes
-90,90652a93-ce95-11eb-a8af-7c67a234f601,male,24,Delmas,2021-02-24 04:06:28.622653+00:00,2021-03-05T15:32:34.635Z,Yes,Bachelors (bacc +4),Friend,Finding a job/internship,2021-03-09T07:44:32.357Z,Yes,Excel,Computer Science,Yes,Yes,Yes
-91,90652a94-ce95-11eb-892d-7c67a234f601,female,26,Delmas,2021-02-25 01:08:53.117097+00:00,0,No,Other,Bootcamp Alumni,Finding a job/internship,0,No,Excel,other,unknown,No,No
-92,90652a95-ce95-11eb-8845-7c67a234f601,male,26,Delmas,2021-02-25 02:10:22.051972+00:00,0,No,Bachelors (bacc +4),Ayiti Analytics Website,Mentorship,0,No,"Excel, JavaScript, Java",other,unknown,Yes,Yes
-93,90652a96-ce95-11eb-97b2-7c67a234f601,male,25,Delmas,2021-02-25 05:08:47.102397+00:00,0,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,0,No,"R, Python, Java, SQL, Excel",Statistics,unknown,Yes,Yes
-94,90652a97-ce95-11eb-856d-7c67a234f601,male,21,Delmas,2021-02-25 17:19:54.464458+00:00,2021-02-25T17:38:24.509Z,Yes,Bachelors (bacc +4),ESIH,Improving my data analysis skills,0,No,"PHP, SQL, Excel",0,unknown,Yes,Yes
-95,906555be-ce95-11eb-9d03-7c67a234f601,male,26,Delmas,2021-02-26 19:53:22.780616+00:00,0,No,Other,Friend,Training to start my own company,0,No,Excel,Management,Yes,Yes,Yes
-96,906555bf-ce95-11eb-92ac-7c67a234f601,male,23,Delmas,2021-02-27 12:34:01.718182+00:00,0,No,High School (16 years),WhatsApp,Improving my data analysis skills,0,No,Excel,Computer Science,Yes,Yes,Yes
-97,906555c0-ce95-11eb-a091-7c67a234f601,male,22,Delmas,2021-02-27 19:43:50.291167+00:00,0,No,Other,Friend,Switching careers,0,No,"Excel, other",Management,unknown,Yes,Yes
-98,906555c1-ce95-11eb-95e0-7c67a234f601,male,29,Delmas,2021-03-01 04:52:38.470727+00:00,2021-03-01T04:57:51.037Z,Yes,Bachelors (bacc +4),ESIH,Finding a job/internship,2021-03-12T20:33:14.700Z,Yes,"SQL, JavaScript, Java, Python, Excel",Computer Science,unknown,Yes,Yes
-99,9065740c-ce95-11eb-968f-7c67a234f601,female,32,Delmas,2021-03-03 00:31:59.217980+00:00,2021-03-03T00:35:34.665Z,Yes,Masters,Friend,Improving my data analysis skills,2021-03-03T00:35:29.698Z,Yes,"Excel, R",Statistics,unknown,Yes,Yes
-100,90658229-ce95-11eb-ab19-7c67a234f601,male,40,Delmas,2021-03-03 08:49:43.788739+00:00,0,No,Bachelors (bacc +4),Facebook,Training to start my own company,0,No,Excel,other,unknown,No,No
-101,9065822a-ce95-11eb-9df5-7c67a234f601,female,-1,Delmas,2021-03-03 16:42:19.840773+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,Excel,other,unknown,Yes,Yes
-102,9065822b-ce95-11eb-a3e6-7c67a234f601,male,50,Delmas,2021-03-05 22:14:55.182361+00:00,0,No,Masters,other,Improving my data analysis skills,0,No,"R, Python, Git, Bash, Excel, PHP",Computer Science,Yes,Yes,Yes
-103,90659aff-ce95-11eb-bcbe-7c67a234f601,male,24,Delmas,2021-03-06 00:07:10.794687+00:00,2021-03-08T18:52:09.038Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-08T18:52:09.147Z,Yes,"Python, Excel",Management,unknown,Yes,Yes
-104,90659b00-ce95-11eb-9e8f-7c67a234f601,male,23,Delmas,2021-03-06 01:31:38.452703+00:00,2021-03-08T05:08:50.684Z,Yes,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,2021-03-08T05:08:50.832Z,Yes,"R, Java, Python, Excel","Statistics, Economics",unknown,Yes,Yes
-105,90659b01-ce95-11eb-b7ea-7c67a234f601,male,26,Delmas,2021-03-06 18:06:24.355405+00:00,2021-03-09T16:23:41.152Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-09T16:23:41.405Z,Yes,"SQL, Excel",Computer Science,unknown,Yes,No
-106,90659b02-ce95-11eb-a379-7c67a234f601,male,30,Delmas,2021-03-07 21:46:33.585073+00:00,0,No,"Doctorate (PhD, MD, JD)",Friend,Improving my data analysis skills,0,No,Excel,Medicine,Yes,Yes,Yes
-107,9065cffb-ce95-11eb-b326-7c67a234f601,male,20,Delmas,2021-03-08 18:11:56.992794+00:00,0,No,High School (16 years),Ayiti Analytics Website,Switching careers,0,No,"Python, R, PHP, SQL, PowerBI or Tableau, Excel, Git, other",0,unknown,Yes,Yes
-108,9065e939-ce95-11eb-9702-7c67a234f601,male,24,Delmas,2021-03-08 19:11:26.440484+00:00,0,No,Bachelors (bacc +4),Facebook,Finding a job/internship,0,No,Excel,Management,unknown,No,Yes
-109,9065e93a-ce95-11eb-887d-7c67a234f601,female,23,Delmas,2021-03-10 03:24:38.241951+00:00,0,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,0,No,"Excel, Java, JavaScript",Management,unknown,Yes,Yes
-110,90660fe1-ce95-11eb-a30e-7c67a234f601,female,22,Delmas,2021-03-10 22:18:54.126612+00:00,0,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,0,No,"PHP, JavaScript, Java, SQL, Excel, Python",Computer Science,unknown,Yes,Yes
-111,90660fe2-ce95-11eb-a2b5-7c67a234f601,male,28,Delmas,2021-03-11 20:33:09.038647+00:00,0,No,Bachelors (bacc +4),Facebook,Switching careers,0,No,"Excel, PowerBI or Tableau",other,unknown,Yes,Yes
-112,90660fe3-ce95-11eb-8747-7c67a234f601,male,26,Delmas,2021-03-12 17:20:46.946754+00:00,0,No,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,0,No,"JavaScript, Python",Computer Science,Yes,Yes,Yes
-113,906636ce-ce95-11eb-ba43-7c67a234f601,male,33,Delmas,2021-03-13 00:10:59.350909+00:00,0,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,0,No,"Excel, PowerBI or Tableau",other,Yes,Yes,Yes
-114,906636cf-ce95-11eb-8679-7c67a234f601,male,39,Delmas,2021-03-13 15:17:07.801068+00:00,2021-03-14T04:20:30.803Z,Yes,Masters,Friend,Improving my data analysis skills,2021-03-14T04:20:23.483Z,Yes,"VBA, SQL, Excel, PowerBI or Tableau, other",Management,Yes,Yes,Yes
-115,906a79ad-ce95-11eb-b186-7c67a234f601,male,23,Dondon,2021-02-21 10:47:46.723590+00:00,0,No,Other,Facebook,Finding a job/internship,0,No,0,"Electrical Engineering, Computer Science",No,Yes,No
-116,906b65e2-ce95-11eb-8b5c-7c67a234f601,male,28,Ferrier,2021-03-08 16:35:07.806100+00:00,2021-03-08T19:06:32.719Z,Yes,Bachelors (bacc +4),Facebook,Improving my data analysis skills,2021-03-08T19:06:32.837Z,Yes,SQL,Computer Science,unknown,Yes,Yes
-117,906a2d41-ce95-11eb-b7f9-7c67a234f601,female,28,Ganthier,2021-02-20 02:22:39.296532+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"Excel, other",Economics,unknown,Yes,No
-118,906a2d42-ce95-11eb-a3de-7c67a234f601,male,38,Grand-Goave,2021-02-20 10:01:36.488443+00:00,0,No,Bachelors (bacc +4),WhatsApp,Switching careers,0,No,"Java, JavaScript, PHP, Excel",other,Yes,Yes,Yes
-119,906a04ca-ce95-11eb-9b48-7c67a234f601,male,44,Gressier,2021-02-19 17:21:00.071559+00:00,0,No,Bachelors (bacc +4),WhatsApp,Mentorship,0,No,"JavaScript, Java, PHP, Excel, SQL, other","Computer Science, Economics",Yes,Yes,No
-120,906636d0-ce95-11eb-9875-7c67a234f601,male,25,Gros Morne,2021-02-16 15:49:56.430348+00:00,2021-02-16T15:55:20.037Z,Yes,Other,WhatsApp,Training to start my own company,0,No,Excel,Computer Science,unknown,Yes,Yes
-121,906aa0a3-ce95-11eb-9611-7c67a234f601,male,28,Hinche,2021-02-21 13:13:21.775384+00:00,0,No,Bachelors (bacc +4),WhatsApp,Switching careers,0,No,"Excel, Python, Java, JavaScript",other,unknown,Yes,Yes
-122,9069789f-ce95-11eb-9788-7c67a234f601,male,24,Jacmel,2021-02-16 19:40:36.954470+00:00,2021-02-16T20:09:37.007Z,Yes,High School (16 years),Friend,Training to start my own company,2021-02-16T20:09:31.627Z,Yes,"Bash, Excel, Git, Python, JavaScript","Statistics, Economics, other",unknown,Yes,Yes
-123,90698fe9-ce95-11eb-a607-7c67a234f601,male,21,Jacmel,2021-02-19 16:41:36.607345+00:00,0,No,Bachelors (bacc +4),Friend,Finding a job/internship,0,No,Excel,other,unknown,Yes,Yes
-124,90698fea-ce95-11eb-ae89-7c67a234f601,male,23,Jacmel,2021-02-19 20:45:29.736269+00:00,2021-02-19T21:19:39.035Z,Yes,Bachelors (bacc +4),other,Training to start my own company,0,No,"JavaScript, Excel, Git, Python",Computer Science,unknown,Yes,Yes
-125,906ac788-ce95-11eb-a6f7-7c67a234f601,male,37,Kenscoff,2021-02-23 03:38:07.770681+00:00,0,No,Bachelors (bacc +4),Friend,Training to start my own company,0,No,Excel,other,Yes,Yes,Yes
-126,9069cfac-ce95-11eb-9487-7c67a234f601,male,21,Leogane,2021-02-18 15:39:20.543570+00:00,0,No,High School (16 years),Facebook,Training to start my own company,0,No,"Python, other",other,unknown,Yes,No
-127,9069ddd5-ce95-11eb-b041-7c67a234f601,male,37,Leogane,2021-03-10 20:44:57.468048+00:00,0,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,0,No,Excel,Law,No,Yes,Yes
-128,9069a205-ce95-11eb-be5a-7c67a234f601,female,1,Les Cayes,2021-02-16 20:03:39.432449+00:00,0,No,Other,WhatsApp,Improving my data analysis skills,0,No,Excel,other,unknown,No,No
-129,906b1739-ce95-11eb-8944-7c67a234f601,male,27,Limonade,2021-02-25 15:29:35.808052+00:00,0,No,Bachelors (bacc +4),WhatsApp,Switching careers,0,No,"R, Python, SQL, Excel",other,unknown,Yes,Yes
-130,906b3c84-ce95-11eb-8c2a-7c67a234f601,male,27,Mirebalais,2021-03-02 18:39:19.873194+00:00,2021-03-02T18:45:26.479Z,Yes,Bachelors (bacc +4),Facebook,Improving my data analysis skills,2021-03-02T18:53:20.759Z,Yes,Excel,other,Yes,Yes,Yes
-131,906b3c85-ce95-11eb-9b87-7c67a234f601,male,30,Mirebalais,2021-03-10 04:12:49.436154+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"JavaScript, Bash, PowerBI or Tableau, Git, Excel",Medicine,Yes,Yes,Yes
-132,906b3c86-ce95-11eb-b6a7-7c67a234f601,male,27,Mirebalais,2021-03-14 15:29:32.474015+00:00,2021-03-14T15:34:39.800Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-14T15:34:35.014Z,Yes,"Python, Excel, SQL, PowerBI or Tableau",Statistics,Yes,Yes,Yes
-133,906a04c9-ce95-11eb-8f6a-7c67a234f601,male,-1,Mombin Crochu,2021-02-19 15:31:45.053863+00:00,0,No,High School (16 years),LinkedIn,Improving my data analysis skills,0,No,Excel,Economics,unknown,Yes,Yes
-134,906a52b4-ce95-11eb-b9bd-7c67a234f601,male,-1,Ouanaminthe,2021-02-20 22:03:30.047897+00:00,0,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,0,No,Excel,Management,Yes,Yes,Yes
-135,906a52b5-ce95-11eb-9ece-7c67a234f601,male,29,Ouanaminthe,2021-02-20 22:16:10.638707+00:00,0,No,Bachelors (bacc +4),WhatsApp,Finding a job/internship,0,No,Excel,other,unknown,Yes,Yes
-136,906a52b6-ce95-11eb-935f-7c67a234f601,male,23,Ouanaminthe,2021-02-21 00:50:07.932505+00:00,2021-02-21T00:53:42.441Z,Yes,Other,WhatsApp,Improving my data analysis skills,0,No,Excel,other,unknown,Yes,No
-137,90677021-ce95-11eb-a3f5-7c67a234f601,male,23,Petion-Ville,2021-02-16 16:40:06.301783+00:00,0,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,0,No,"Python, JavaScript, PHP, SQL, Excel",Computer Science,unknown,Yes,Yes
-138,90677022-ce95-11eb-911c-7c67a234f601,male,48,Petion-Ville,2021-02-16 17:18:30.784293+00:00,0,No,Masters,WhatsApp,Improving my data analysis skills,0,No,"Excel, other",other,unknown,Yes,Yes
-139,90677023-ce95-11eb-8bd4-7c67a234f601,male,38,Petion-Ville,2021-02-16 17:31:27.713132+00:00,0,No,High School (16 years),Friend,Improving my data analysis skills,0,No,Excel,other,Yes,Yes,Yes
-140,9067957a-ce95-11eb-aff1-7c67a234f601,male,25,Petion-Ville,2021-02-16 17:33:06.303297+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"PHP, Python, Git, SQL, Excel",Computer Science,Yes,Yes,Yes
-141,9067957b-ce95-11eb-a3f9-7c67a234f601,male,23,Petion-Ville,2021-02-16 18:28:34.284083+00:00,2021-02-16T18:39:34.399Z,Yes,Other,Ayiti Analytics Website,Improving my data analysis skills,2021-02-21T19:46:22.624Z,Yes,other,other,unknown,No,Yes
-142,9067957c-ce95-11eb-9346-7c67a234f601,male,33,Petion-Ville,2021-02-17 07:00:34.144274+00:00,2021-02-17T07:06:55.943Z,Yes,Bachelors (bacc +4),Instagram,Switching careers,0,No,Excel,Accounting,unknown,Yes,Yes
-143,9067957d-ce95-11eb-82b5-7c67a234f601,male,28,Petion-Ville,2021-02-17 08:11:43.133386+00:00,2021-02-17T08:16:36.072Z,Yes,Bachelors (bacc +4),Friend,Switching careers,0,No,Excel,other,Yes,No,Yes
-144,9067bc86-ce95-11eb-b97f-7c67a234f601,male,31,Petion-Ville,2021-02-17 22:09:36.206612+00:00,0,No,Other,WhatsApp,Mentorship,0,No,PHP,Computer Science,unknown,Yes,Yes
-145,9067bc87-ce95-11eb-977f-7c67a234f601,male,26,Petion-Ville,2021-02-17 22:47:37.396191+00:00,2021-02-17T22:54:01.044Z,Yes,Bachelors (bacc +4),ESIH,Improving my data analysis skills,0,No,"JavaScript, Excel, SQL",Computer Science,unknown,Yes,Yes
-146,9067ce03-ce95-11eb-8fa0-7c67a234f601,male,26,Petion-Ville,2021-02-18 15:25:41.487725+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"Excel, VBA",other,unknown,Yes,Yes
-147,9067e4bf-ce95-11eb-afb1-7c67a234f601,male,25,Petion-Ville,2021-02-19 02:49:42.320753+00:00,2021-02-19T14:13:37.258Z,Yes,Other,WhatsApp,Improving my data analysis skills,0,No,"Excel, SQL, Java",Computer Science,Yes,Yes,Yes
-148,9067e4c0-ce95-11eb-bebe-7c67a234f601,male,0,Petion-Ville,2021-02-19 05:54:34.455205+00:00,0,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,0,No,R,Computer Science,unknown,Yes,No
-149,9067e4c1-ce95-11eb-b85a-7c67a234f601,male,38,Petion-Ville,2021-02-19 08:58:54.366263+00:00,0,No,Bachelors (bacc +4),other,Improving my data analysis skills,0,No,"PHP, SQL, Excel",Computer Science,unknown,Yes,Yes
-150,90680a68-ce95-11eb-9881-7c67a234f601,male,28,Petion-Ville,2021-02-19 14:34:30.594408+00:00,0,No,High School (16 years),WhatsApp,Improving my data analysis skills,0,No,"Excel, other",0,unknown,Yes,Yes
-151,90680a69-ce95-11eb-ac13-7c67a234f601,male,24,Petion-Ville,2021-02-20 13:36:41.923770+00:00,0,No,High School (16 years),WhatsApp,Training to start my own company,0,No,"Java, JavaScript, Excel",Computer Science,Yes,No,Yes
-152,90680a6a-ce95-11eb-bf44-7c67a234f601,male,25,Petion-Ville,2021-02-21 01:07:12.484628+00:00,2021-02-21T01:08:59.590Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-02-24T14:54:21.891Z,Yes,"Python, R, Java, Excel",Statistics,unknown,Yes,Yes
-153,90680a6b-ce95-11eb-ad05-7c67a234f601,male,27,Petion-Ville,2021-02-21 01:10:49.631395+00:00,2021-02-21T01:27:45.797Z,Yes,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,0,No,"Python, Java, JavaScript, PHP, Git, SQL",Computer Science,unknown,Yes,Yes
-154,906836e2-ce95-11eb-b267-7c67a234f601,female,23,Petion-Ville,2021-02-21 12:55:21.558387+00:00,0,No,Bachelors (bacc +4),Facebook,Mentorship,0,No,Excel,Law,unknown,Yes,Yes
-155,90685b18-ce95-11eb-99e6-7c67a234f601,male,24,Petion-Ville,2021-02-21 17:07:08.106580+00:00,2021-02-24T14:49:19.661Z,Yes,Bachelors (bacc +4),Facebook,Training to start my own company,2021-02-24T14:49:19.752Z,Yes,"R, Python, Excel, SQL","Statistics, Economics",unknown,Yes,Yes
-156,90687faf-ce95-11eb-ba86-7c67a234f601,male,25,Petion-Ville,2021-02-21 17:43:26.893523+00:00,2021-02-28T22:23:16.835Z,Yes,Bachelors (bacc +4),Friend,Training to start my own company,2021-02-28T22:23:17.083Z,Yes,"PHP, SQL, Excel",Computer Science,unknown,Yes,Yes
-157,90687fb0-ce95-11eb-a8e5-7c67a234f601,male,26,Petion-Ville,2021-02-22 17:17:19.920750+00:00,0,No,Bachelors (bacc +4),WhatsApp,Switching careers,0,No,0,Law,unknown,Yes,Yes
-158,9068a856-ce95-11eb-bbd6-7c67a234f601,female,37,Petion-Ville,2021-02-25 15:10:49.724391+00:00,0,No,Other,Ayiti Analytics Website,Improving my data analysis skills,0,No,"Python, SQL, Excel",Computer Science,unknown,Yes,Yes
-159,9068cd1e-ce95-11eb-a722-7c67a234f601,female,27,Petion-Ville,2021-02-26 17:05:33.951467+00:00,0,No,Other,Friend,Finding a job/internship,0,No,other,Accounting,unknown,Yes,No
-160,9068cd1f-ce95-11eb-b712-7c67a234f601,male,26,Petion-Ville,2021-02-26 17:58:14.474058+00:00,0,No,Bachelors (bacc +4),Facebook,Finding a job/internship,0,No,"Python, other",other,unknown,No,Yes
-161,9068f405-ce95-11eb-b487-7c67a234f601,male,23,Petion-Ville,2021-02-28 11:04:45.987528+00:00,2021-02-28T11:11:01.228Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-03T13:38:57.368Z,Yes,"Python, R, SQL, Excel, Git, Java",Statistics,unknown,Yes,Yes
-162,9068f406-ce95-11eb-8144-7c67a234f601,male,30,Petion-Ville,2021-03-02 20:51:47.043962+00:00,0,No,Bachelors (bacc +4),Facebook,Finding a job/internship,0,No,"Python, Java, PHP",Computer Science,Yes,Yes,Yes
-163,9068f407-ce95-11eb-a25c-7c67a234f601,male,25,Petion-Ville,2021-03-06 02:02:51.896577+00:00,0,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,0,No,"PHP, Excel, JavaScript, Java",Computer Science,unknown,Yes,Yes
-164,9068f408-ce95-11eb-9caf-7c67a234f601,female,45,Petion-Ville,2021-03-10 22:14:04.886930+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"JavaScript, Excel, other",Accounting,unknown,Yes,unknown
-165,9068f409-ce95-11eb-971f-7c67a234f601,male,30,Petion-Ville,2021-03-11 13:37:53.514304+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"Excel, SQL",Management,unknown,Yes,No
-166,9069b6e1-ce95-11eb-8356-7c67a234f601,male,26,Petit-Goave,2021-02-17 14:42:41.267216+00:00,0,No,High School (16 years),WhatsApp,Switching careers,0,No,other,Accounting,unknown,Yes,Yes
-167,9069ddd6-ce95-11eb-988c-7c67a234f601,male,22,Petite Riviere de l'Artibonite,2021-02-18 16:58:05.948340+00:00,2021-02-18T16:59:56.689Z,Yes,Other,WhatsApp,Training to start my own company,0,No,Excel,Management,unknown,Yes,Yes
-168,906b65e3-ce95-11eb-a294-7c67a234f601,male,27,Petite Riviere de Nippes,2021-03-10 21:41:05.708748+00:00,2021-03-14T02:16:08.736Z,Yes,Masters,Facebook,Improving my data analysis skills,2021-03-14T02:16:08.983Z,Yes,"R, Excel",other,unknown,Yes,Yes
-169,9069cfab-ce95-11eb-97af-7c67a234f601,male,28,Plaine du Nord,2021-02-17 17:57:26.179478+00:00,0,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,0,No,Excel,other,unknown,No,No
-170,905dc006-ce95-11eb-b2f9-7c67a234f601,male,22,Port-au-Prince,2021-02-14 23:03:52.768400+00:00,2021-02-14T23:15:19.500Z,Yes,unknown,unknown,unknown,0,No,0,0,unknown,unknown,unknown
-171,905ddcf2-ce95-11eb-9a92-7c67a234f601,female,24,Port-au-Prince,2021-02-16 16:01:10.861844+00:00,0,No,Bachelors (bacc +4),Friend,Finding a job/internship,0,No,"R, Excel",other,unknown,Yes,Yes
-172,905e2608-ce95-11eb-809f-7c67a234f601,male,24,Port-au-Prince,2021-02-16 16:56:30.579504+00:00,2021-02-20T21:20:37.450Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-03T23:00:11.974Z,Yes,"Python, Java, JavaScript, SQL, Excel, Bash, Git",0,unknown,Yes,Yes
-173,905e4cf5-ce95-11eb-96a9-7c67a234f601,male,24,Port-au-Prince,2021-02-16 16:57:55.754541+00:00,0,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,0,No,"Excel, Java, JavaScript, PHP, Python","Computer Science, Management",unknown,Yes,Yes
-174,905e73fd-ce95-11eb-a7b0-7c67a234f601,male,23,Port-au-Prince,2021-02-16 17:05:40.907948+00:00,0,No,High School (16 years),WhatsApp,Mentorship,0,No,"PHP, Bash",other,unknown,Yes,Yes
-175,905e9b27-ce95-11eb-9c37-7c67a234f601,male,24,Port-au-Prince,2021-02-16 18:35:14.430837+00:00,0,No,Other,ESIH,Improving my data analysis skills,0,No,"Python, Excel, JavaScript, Java, SQL",other,unknown,Yes,Yes
-176,905ec1ec-ce95-11eb-8136-7c67a234f601,female,32,Port-au-Prince,2021-02-16 20:06:17.885833+00:00,2021-02-16T20:16:35.911Z,Yes,Masters,WhatsApp,Improving my data analysis skills,2021-02-22T19:16:35.371Z,Yes,"R, Python, Java, PHP, SQL, Excel",Computer Science,Yes,Yes,Yes
-177,905ec1ed-ce95-11eb-829c-7c67a234f601,female,24,Port-au-Prince,2021-02-16 22:54:19.490806+00:00,2021-02-24T16:53:16.967Z,Yes,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,2021-02-24T16:53:17.136Z,Yes,"PHP, Excel, Java, JavaScript",Computer Science,unknown,Yes,Yes
-178,905ef688-ce95-11eb-9b57-7c67a234f601,female,29,Port-au-Prince,2021-02-17 01:10:41.212269+00:00,0,No,Bachelors (bacc +4),ESIH,Mentorship,0,No,Excel,Computer Science,unknown,Yes,Yes
-179,905f0fbd-ce95-11eb-b153-7c67a234f601,female,23,Port-au-Prince,2021-02-17 01:24:40.360076+00:00,0,No,High School (16 years),WhatsApp,Training to start my own company,0,No,"Excel, Git, Java, PowerBI or Tableau, other",Law,unknown,Yes,Yes
-180,905f0fbe-ce95-11eb-8396-7c67a234f601,female,26,Port-au-Prince,2021-02-17 01:45:30.152590+00:00,0,No,Other,Bootcamp Alumni,Training to start my own company,0,No,"Excel, JavaScript, Python",other,unknown,Yes,Yes
-181,905f36c8-ce95-11eb-bef0-7c67a234f601,female,26,Port-au-Prince,2021-02-17 04:35:17.193779+00:00,2021-02-19T02:33:12.145Z,Yes,Other,Facebook,Finding a job/internship,0,No,"Bash, SQL, PHP",Computer Science,Yes,Yes,Yes
-182,905f36c9-ce95-11eb-aa33-7c67a234f601,male,28,Port-au-Prince,2021-02-17 08:35:45.761623+00:00,0,No,Bachelors (bacc +4),Friend,Training to start my own company,0,No,"Excel, SQL",Management,unknown,Yes,Yes
-183,905f36ca-ce95-11eb-9411-7c67a234f601,female,43,Port-au-Prince,2021-02-17 12:13:45.466757+00:00,2021-02-17T12:25:08.308Z,Yes,unknown,Facebook,Mentorship,0,No,Excel,"Management, other",Yes,Yes,Yes
-184,905f5dbf-ce95-11eb-a1fb-7c67a234f601,male,28,Port-au-Prince,2021-02-17 13:37:28.014036+00:00,2021-02-18T22:20:39.620Z,Yes,Bachelors (bacc +4),Facebook,Improving my data analysis skills,0,No,"JavaScript, PHP, SQL, Excel",Computer Science,Yes,Yes,Yes
-185,905f5dc0-ce95-11eb-8056-7c67a234f601,male,27,Port-au-Prince,2021-02-17 14:14:27.915524+00:00,0,No,Other,WhatsApp,Switching careers,0,No,"Excel, Java",other,unknown,Yes,Yes
-186,905f5dc1-ce95-11eb-bfa7-7c67a234f601,female,22,Port-au-Prince,2021-02-17 15:07:25.936848+00:00,2021-02-17T15:14:40.939Z,Yes,Other,Facebook,Improving my data analysis skills,2021-02-18T14:45:02.292Z,Yes,"R, Python, Java",Economics,unknown,Yes,Yes
-187,905f84ab-ce95-11eb-8886-7c67a234f601,male,33,Port-au-Prince,2021-02-17 15:07:34.576832+00:00,0,No,Masters,ESIH,Finding a job/internship,0,No,"PHP, SQL, Excel, Git, JavaScript, Java",Computer Science,unknown,Yes,Yes
-188,905f84ac-ce95-11eb-bf5f-7c67a234f601,female,26,Port-au-Prince,2021-02-17 16:23:26.040671+00:00,0,No,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,0,No,"Python, JavaScript, SQL, Excel, R, Java",Economics,unknown,Yes,Yes
-189,905fab9d-ce95-11eb-a1ed-7c67a234f601,male,28,Port-au-Prince,2021-02-17 17:00:15.323395+00:00,2021-01-26T04:16:38.716Z,Yes,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,0,No,"Java, SQL, Excel, PHP, JavaScript, Python",Computer Science,unknown,Yes,Yes
-190,905fab9e-ce95-11eb-a53d-7c67a234f601,female,25,Port-au-Prince,2021-02-18 02:51:22.345338+00:00,0,No,Bachelors (bacc +4),Ayiti Analytics Website,Switching careers,0,No,Excel,other,Yes,Yes,Yes
-191,905fd65b-ce95-11eb-b835-7c67a234f601,male,23,Port-au-Prince,2021-02-18 12:31:36.110753+00:00,2021-02-18T12:41:11.310Z,Yes,Bachelors (bacc +4),WhatsApp,Finding a job/internship,0,No,0,other,Yes,Yes,Yes
-192,905ff97f-ce95-11eb-a994-7c67a234f601,male,25,Port-au-Prince,2021-02-18 18:25:49.799197+00:00,0,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,0,No,"Excel, other",other,unknown,Yes,Yes
-193,905ff980-ce95-11eb-98b7-7c67a234f601,male,27,Port-au-Prince,2021-02-19 04:48:30.390199+00:00,2021-02-19T04:57:13.593Z,Yes,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"PHP, SQL, Excel, other",other,Yes,Yes,Yes
-194,90602078-ce95-11eb-bc1d-7c67a234f601,female,22,Port-au-Prince,2021-02-19 15:05:57.007218+00:00,2021-02-19T15:14:32.842Z,Yes,High School (16 years),Friend,Training to start my own company,0,No,Excel,Medicine,unknown,Yes,Yes
-195,906036c8-ce95-11eb-8c78-7c67a234f601,male,-1,Port-au-Prince,2021-02-19 16:36:01.701811+00:00,0,No,High School (16 years),WhatsApp,Mentorship,0,No,JavaScript,Computer Science,Yes,Yes,Yes
-196,9060477c-ce95-11eb-ace3-7c67a234f601,male,29,Port-au-Prince,2021-02-19 16:36:50.278947+00:00,2021-02-23T17:22:16.055Z,Yes,Bachelors (bacc +4),WhatsApp,Finding a job/internship,2021-03-12T14:23:11.154Z,Yes,"Excel, SQL",Computer Science,unknown,Yes,No
-197,9060477d-ce95-11eb-ab2e-7c67a234f601,male,34,Port-au-Prince,2021-02-19 20:44:12.648426+00:00,2021-02-19T20:50:52.408Z,Yes,Other,WhatsApp,Switching careers,0,No,"Excel, JavaScript, Java, PHP, SQL",Computer Science,Yes,Yes,Yes
-198,9060617e-ce95-11eb-bd26-7c67a234f601,male,44,Port-au-Prince,2021-02-21 22:33:55.442235+00:00,2021-02-21T22:48:34.851Z,Yes,Bachelors (bacc +4),Friend,Finding a job/internship,0,No,"R, Python, Java, JavaScript, SQL, Excel, Git",Computer Science,unknown,Yes,Yes
-199,906073cb-ce95-11eb-acb0-7c67a234f601,male,34,Port-au-Prince,2021-02-21 22:53:29.419931+00:00,0,No,Masters,Facebook,Improving my data analysis skills,0,No,"Excel, Python, Java","Management, other",unknown,Yes,Yes
-200,906073cc-ce95-11eb-aac4-7c67a234f601,male,32,Port-au-Prince,2021-02-22 01:50:26.945419+00:00,0,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,0,No,"JavaScript, PHP, SQL, Git, Excel",Computer Science,unknown,Yes,Yes
-201,90609554-ce95-11eb-a24a-7c67a234f601,female,20,Port-au-Prince,2021-02-22 21:47:38.898198+00:00,2021-03-02T02:49:24.538Z,Yes,Other,Friend,Finding a job/internship,2021-03-02T02:49:24.780Z,Yes,Excel,other,unknown,Yes,No
-202,90609555-ce95-11eb-b61a-7c67a234f601,female,22,Port-au-Prince,2021-02-22 22:01:34.542190+00:00,0,No,Other,Friend,Finding a job/internship,0,No,Excel,Law,unknown,Yes,No
-203,9060c2e6-ce95-11eb-b8b8-7c67a234f601,female,25,Port-au-Prince,2021-02-23 15:19:56.513813+00:00,2021-02-23T20:50:47.228Z,Yes,Bachelors (bacc +4),Bootcamp Alumni,Finding a job/internship,2021-02-23T20:50:47.515Z,Yes,Excel,other,Yes,Yes,Yes
-204,9060cbb2-ce95-11eb-bac1-7c67a234f601,female,24,Port-au-Prince,2021-02-23 17:29:42.775198+00:00,0,No,Bachelors (bacc +4),WhatsApp,Switching careers,0,No,"Python, Excel",Management,unknown,Yes,Yes
-205,9060e347-ce95-11eb-abbb-7c67a234f601,male,-1,Port-au-Prince,2021-02-23 21:17:28.855652+00:00,2021-02-23T21:24:00.017Z,Yes,Other,WhatsApp,Training to start my own company,2021-02-25T23:57:16.634Z,Yes,"R, Excel",Medicine,unknown,Yes,Yes
-206,90610a3c-ce95-11eb-a50e-7c67a234f601,female,23,Port-au-Prince,2021-02-23 23:28:40.631937+00:00,2021-03-04T02:08:06.247Z,Yes,Other,Bootcamp Alumni,Switching careers,2021-03-04T02:08:06.582Z,Yes,Excel,other,Yes,Yes,No
-207,90611cd3-ce95-11eb-bebc-7c67a234f601,female,22,Port-au-Prince,2021-02-24 12:10:24.262754+00:00,2021-02-24T12:20:49.929Z,Yes,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,2021-03-07T12:43:08.911Z,Yes,Excel,"Management, Law",unknown,Yes,Yes
-208,90611cd4-ce95-11eb-a328-7c67a234f601,male,31,Port-au-Prince,2021-02-24 13:29:35.128378+00:00,0,No,Bachelors (bacc +4),Friend,Training to start my own company,0,No,"JavaScript, Excel","Accounting, Management, other",unknown,Yes,Yes
-209,9061312a-ce95-11eb-ba28-7c67a234f601,male,24,Port-au-Prince,2021-02-24 21:05:46.442805+00:00,2021-02-24T21:22:16.056Z,Yes,Bachelors (bacc +4),other,Improving my data analysis skills,2021-02-24T21:22:15.936Z,Yes,"Excel, other",Management,unknown,No,No
-210,90614c17-ce95-11eb-b604-7c67a234f601,male,25,Port-au-Prince,2021-02-25 04:07:44.843346+00:00,2021-02-25T04:14:40.539Z,Yes,Other,Friend,Improving my data analysis skills,2021-03-02T21:28:21.815Z,Yes,Excel,Medicine,unknown,Yes,Yes
-211,9061581f-ce95-11eb-af12-7c67a234f601,male,26,Port-au-Prince,2021-02-25 17:05:05.961903+00:00,2021-03-12T16:40:47.519Z,Yes,Bachelors (bacc +4),ESIH,Improving my data analysis skills,2021-03-12T16:40:47.723Z,Yes,"Java, PHP, SQL, Excel, other","Computer Science, other",unknown,Yes,Yes
-212,90615820-ce95-11eb-9088-7c67a234f601,male,31,Port-au-Prince,2021-02-25 21:59:09.594310+00:00,0,No,Other,Facebook,Switching careers,0,No,"JavaScript, Excel, Python, Java, SQL, PHP, other","Accounting, other",Yes,Yes,Yes
-213,906178f8-ce95-11eb-95e9-7c67a234f601,male,24,Port-au-Prince,2021-02-28 15:21:56.910820+00:00,2021-03-01T14:02:26.445Z,Yes,High School (16 years),Facebook,Improving my data analysis skills,0,No,Python,"Statistics, Economics",unknown,Yes,Yes
-214,90617f12-ce95-11eb-a3c8-7c67a234f601,male,33,Port-au-Prince,2021-03-02 18:43:17.761758+00:00,2021-02-25T15:36:30.914Z,Yes,Bachelors (bacc +4),Facebook,Improving my data analysis skills,2021-02-25T15:36:26.464Z,Yes,"Excel, other",Accounting,Yes,Yes,Yes
-215,90617f13-ce95-11eb-bc4e-7c67a234f601,male,24,Port-au-Prince,2021-03-02 18:58:04.715477+00:00,2021-02-23T02:02:23.225Z,Yes,Other,WhatsApp,other,2021-02-23T02:02:23.482Z,Yes,"Excel, Python",Law,Yes,Yes,Yes
-216,9061a61c-ce95-11eb-ba30-7c67a234f601,male,19,Port-au-Prince,2021-03-03 00:51:40.622658+00:00,0,No,High School (16 years),other,Finding a job/internship,0,No,Excel,Management,unknown,Yes,Yes
-217,9061a61d-ce95-11eb-a939-7c67a234f601,female,25,Port-au-Prince,2021-03-03 15:15:26.637776+00:00,2021-02-19T13:38:47.624Z,Yes,Bachelors (bacc +4),other,Mentorship,2021-02-20T12:25:24.229Z,Yes,"R, Python, Excel, Git, other, SQL","Statistics, Economics",unknown,Yes,Yes
-218,9061d752-ce95-11eb-afc7-7c67a234f601,male,24,Port-au-Prince,2021-03-03 22:42:45.136856+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,Excel,Economics,unknown,Yes,Yes
-219,9061d753-ce95-11eb-967a-7c67a234f601,male,20,Port-au-Prince,2021-03-04 00:47:43.600372+00:00,2021-02-07T04:16:04.381Z,Yes,High School (16 years),Friend,Improving my data analysis skills,2021-02-12T14:04:48Z,Yes,"Python, Excel, other, SQL","Computer Science, other",unknown,Yes,Yes
-220,9061d754-ce95-11eb-a086-7c67a234f601,male,25,Port-au-Prince,2021-03-08 19:34:41.350610+00:00,0,No,Bachelors (bacc +4),LinkedIn,Finding a job/internship,0,No,"JavaScript, Java, SQL, PHP, Excel, Git",Computer Science,Yes,Yes,Yes
-221,9061f3ee-ce95-11eb-a9d9-7c67a234f601,male,25,Port-au-Prince,2021-03-09 17:52:36.737619+00:00,0,No,High School (16 years),Facebook,Improving my data analysis skills,0,No,"JavaScript, Java, Excel",Computer Science,unknown,Yes,Yes
-222,90620452-ce95-11eb-9ec8-7c67a234f601,male,23,Port-au-Prince,2021-03-10 03:57:01.435046+00:00,0,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,0,No,Excel,other,unknown,Yes,Yes
-223,90620453-ce95-11eb-bb57-7c67a234f601,male,27,Port-au-Prince,2021-03-10 10:53:17.282688+00:00,0,No,unknown,Ayiti Analytics Website,Improving my data analysis skills,0,No,"SQL, Excel, PHP, JavaScript","Electrical Engineering, Computer Science, Management",Yes,Yes,Yes
-224,90621ae1-ce95-11eb-8a7d-7c67a234f601,male,34,Port-au-Prince,2021-03-10 15:20:49.292892+00:00,0,No,Masters,WhatsApp,Improving my data analysis skills,0,No,"Bash, Excel, SQL",Computer Science,unknown,Yes,Yes
-225,90622d22-ce95-11eb-a50b-7c67a234f601,male,31,Port-au-Prince,2021-03-10 18:16:01.300116+00:00,0,No,Other,LinkedIn,Improving my data analysis skills,0,No,"Python, PHP, Excel, other","Electrical Engineering, Economics",unknown,Yes,No
-226,90622d23-ce95-11eb-8598-7c67a234f601,male,18,Port-au-Prince,2021-03-11 19:30:51.908260+00:00,0,No,High School (16 years),Friend,Improving my data analysis skills,0,No,JavaScript,0,unknown,Yes,Yes
-227,906241d4-ce95-11eb-a1eb-7c67a234f601,male,24,Port-au-Prince,2021-03-11 20:22:03.513144+00:00,0,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,0,No,"Excel, PowerBI or Tableau",Accounting,Yes,Yes,Yes
-228,906241d5-ce95-11eb-9850-7c67a234f601,male,-1,Port-au-Prince,2021-03-14 07:29:17.391699+00:00,2021-03-14T07:34:09.491Z,Yes,Bachelors (bacc +4),ESIH,other,2021-03-14T07:34:09.638Z,Yes,"Java, PHP, SQL, Excel, Git, JavaScript","Computer Science, Management",unknown,Yes,Yes
-229,9069ddd7-ce95-11eb-859c-7c67a234f601,male,29,Port-Salut,2021-02-19 02:38:19.077533+00:00,0,No,Other,Friend,Improving my data analysis skills,0,No,"other, Excel",other,unknown,No,No
-230,906b173a-ce95-11eb-b3d4-7c67a234f601,male,23,Saint-Louis du Nord,2021-02-27 14:32:11.637371+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"Excel, SQL, Python",Computer Science,unknown,Yes,Yes
-231,906a04cb-ce95-11eb-9bc2-7c67a234f601,male,34,Saint-Marc,2021-02-19 17:47:41.991147+00:00,0,No,Bachelors (bacc +4),other,Finding a job/internship,0,No,"R, Python, Excel, SQL, VBA",Computer Science,Yes,Yes,Yes
-232,906a04cc-ce95-11eb-b561-7c67a234f601,male,21,Saint-Marc,2021-02-24 17:40:07.808547+00:00,0,No,High School (16 years),Facebook,Improving my data analysis skills,0,No,"Python, PHP",Computer Science,Yes,Yes,Yes
-233,906a2d3f-ce95-11eb-a1ba-7c67a234f601,male,32,Saint-Marc,2021-03-04 03:28:00.549687+00:00,0,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,0,No,"Excel, other",Computer Science,unknown,Yes,Yes
-234,906a2d40-ce95-11eb-bee9-7c67a234f601,male,32,Saint-Marc,2021-03-07 16:55:32.968860+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"Excel, other",Computer Science,Yes,Yes,Yes
-235,9069ddd8-ce95-11eb-b0fb-7c67a234f601,male,-1,Sainte Suzanne,2021-02-19 03:13:38.498837+00:00,0,No,Bachelors (bacc +4),Facebook,Finding a job/internship,0,No,"Excel, other",other,unknown,Yes,Yes
-236,906636d1-ce95-11eb-8379-7c67a234f601,male,26,Tabarre,2021-02-16 15:58:42.955395+00:00,0,No,Bachelors (bacc +4),Friend,Training to start my own company,0,No,Excel,other,Yes,Yes,Yes
-237,90665dbc-ce95-11eb-8162-7c67a234f601,male,28,Tabarre,2021-02-17 00:22:37.384150+00:00,2021-02-24T01:16:40.350Z,Yes,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,2021-02-24T01:16:40.567Z,Yes,Excel,Statistics,unknown,Yes,No
-238,90665dbd-ce95-11eb-bcc1-7c67a234f601,male,24,Tabarre,2021-02-17 01:14:58.145925+00:00,2021-02-18T13:59:40.515Z,Yes,Other,WhatsApp,Improving my data analysis skills,2021-02-18T14:04:48.071Z,Yes,"Excel, Python","Economics, Computer Science",unknown,Yes,Yes
-239,90665dbe-ce95-11eb-b66a-7c67a234f601,female,21,Tabarre,2021-02-17 14:51:32.832668+00:00,0,No,High School (16 years),other,Improving my data analysis skills,0,No,Python,Statistics,unknown,Yes,Yes
-240,90665dbf-ce95-11eb-a9b5-7c67a234f601,female,22,Tabarre,2021-02-17 16:11:40.249899+00:00,0,No,Bachelors (bacc +4),ESIH,Training to start my own company,0,No,"Java, SQL, Excel",Computer Science,unknown,Yes,Yes
-241,90665dc0-ce95-11eb-926f-7c67a234f601,male,27,Tabarre,2021-02-18 15:26:08.078345+00:00,2021-02-18T16:15:28.758Z,Yes,Bachelors (bacc +4),WhatsApp,Finding a job/internship,2021-02-24T15:38:34.262Z,Yes,"Python, Excel, SQL, Git, Java","Computer Science, Management",unknown,Yes,Yes
-242,90668798-ce95-11eb-86fc-7c67a234f601,female,28,Tabarre,2021-02-18 23:54:03.283435+00:00,2021-02-19T00:47:03.092Z,Yes,Masters,Friend,Improving my data analysis skills,2021-02-19T00:47:03.242Z,Yes,"Java, PHP, SQL, Excel",Computer Science,unknown,Yes,Yes
-243,90668799-ce95-11eb-b4ec-7c67a234f601,male,21,Tabarre,2021-03-03 15:18:22.916744+00:00,0,No,High School (16 years),Facebook,Improving my data analysis skills,0,No,Excel,other,unknown,Yes,Yes
-244,9066879a-ce95-11eb-bafa-7c67a234f601,male,22,Tabarre,2021-03-06 17:41:23.128794+00:00,0,No,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,0,No,Java,Statistics,unknown,Yes,Yes
-245,9066879b-ce95-11eb-9d4a-7c67a234f601,male,32,Tabarre,2021-03-07 15:27:02.670785+00:00,0,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,0,No,"Excel, SQL, PHP, Java, other","Management, Economics",unknown,Yes,No
-246,9066abb5-ce95-11eb-aa16-7c67a234f601,male,23,Tabarre,2021-03-09 01:06:07.021925+00:00,0,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,0,No,"R, Python, Excel, Java","Statistics, Economics",unknown,Yes,Yes
-247,906a52b7-ce95-11eb-9c4b-7c67a234f601,male,40,Verrettes,2021-02-21 05:31:23.972463+00:00,2021-03-01T23:25:47.412Z,Yes,Other,WhatsApp,Improving my data analysis skills,2021-03-01T23:34:27.375Z,Yes,"Java, SQL, VBA, Excel","Computer Science, Law",Yes,Yes,Yes
-248,906a79ab-ce95-11eb-a1b8-7c67a234f601,male,37,Verrettes,2021-02-22 21:59:40.856380+00:00,2021-03-05T21:49:43.074Z,Yes,Other,WhatsApp,Improving my data analysis skills,2021-03-05T21:49:43.238Z,Yes,"Java, PHP, VBA, SQL, Excel",Computer Science,Yes,Yes,Yes
-249,906a79ac-ce95-11eb-9f8a-7c67a234f601,male,35,Verrettes,2021-03-04 22:38:28.831351+00:00,2021-03-05T21:34:14.111Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-05T21:34:14.240Z,Yes,"Java, PHP, VBA, SQL, Excel",Computer Science,Yes,Yes,Yes
-250,0,0,0,0,0,2020-12-12T06:41:29.844Z,Yes,0,0,0,0,No,0,0,0,0,0
-251,0,0,0,0,0,2020-12-13T14:41:17.720Z,Yes,0,0,0,0,No,0,0,0,0,0
-252,0,0,0,0,0,2020-12-15T00:53:06.499Z,Yes,0,0,0,0,No,0,0,0,0,0
-253,0,0,0,0,0,2020-12-18T18:38:55.683Z,Yes,0,0,0,0,No,0,0,0,0,0
-254,0,0,0,0,0,2020-12-21T14:45:06.528Z,Yes,0,0,0,0,No,0,0,0,0,0
-255,0,0,0,0,0,2020-12-22T16:47:26.199Z,Yes,0,0,0,0,No,0,0,0,0,0
-256,0,0,0,0,0,2021-01-04T22:18:38.182Z,Yes,0,0,0,0,No,0,0,0,0,0
-257,0,0,0,0,0,2021-01-05T04:00:45.795Z,Yes,0,0,0,2021-01-05T04:00:41.222Z,Yes,0,0,0,0,0
-258,0,0,0,0,0,2021-01-10T01:21:21.563Z,Yes,0,0,0,0,No,0,0,0,0,0
-259,0,0,0,0,0,2021-01-27T23:57:34.943Z,Yes,0,0,0,0,No,0,0,0,0,0
-260,0,0,0,0,0,2021-01-28T02:43:47.014Z,Yes,0,0,0,0,No,0,0,0,0,0
-261,0,0,0,0,0,2021-01-31T15:13:40.159Z,Yes,0,0,0,0,No,0,0,0,0,0
-262,0,0,0,0,0,2021-02-05T20:03:10.285Z,Yes,0,0,0,0,No,0,0,0,0,0
-263,0,0,0,0,0,2021-02-06T16:42:07.850Z,Yes,0,0,0,0,No,0,0,0,0,0
-264,0,0,0,0,0,2021-02-16T21:20:39.296Z,Yes,0,0,0,0,No,0,0,0,0,0
-265,0,0,0,0,0,2021-02-17T13:48:42.854Z,Yes,0,0,0,2021-02-17T13:48:38.371Z,Yes,0,0,0,0,0
-266,0,0,0,0,0,2021-02-18T00:23:02.499Z,Yes,0,0,0,0,No,0,0,0,0,0
-267,0,0,0,0,0,2021-02-18T16:09:56.118Z,Yes,0,0,0,0,No,0,0,0,0,0
-268,0,0,0,0,0,2021-02-19T09:03:02.014Z,Yes,0,0,0,0,No,0,0,0,0,0
-269,0,0,0,0,0,2021-02-19T12:36:58.565Z,Yes,0,0,0,2021-02-23T15:55:16.310Z,Yes,0,0,0,0,0
-270,0,0,0,0,0,2021-02-19T17:43:32.127Z,Yes,0,0,0,0,No,0,0,0,0,0
-271,0,0,0,0,0,2021-02-19T19:21:26.044Z,Yes,0,0,0,0,No,0,0,0,0,0
-272,0,0,0,0,0,2021-02-20T00:58:42.295Z,Yes,0,0,0,0,No,0,0,0,0,0
-273,0,0,0,0,0,2021-02-20T22:59:52.740Z,Yes,0,0,0,2021-02-20T22:59:46.749Z,Yes,0,0,0,0,0
-274,0,0,0,0,0,2021-02-21T23:27:56.542Z,Yes,0,0,0,0,No,0,0,0,0,0
-275,0,0,0,0,0,2021-02-23T11:38:18.566Z,Yes,0,0,0,0,No,0,0,0,0,0
-276,0,0,0,0,0,2021-02-24T17:43:57.651Z,Yes,0,0,0,0,No,0,0,0,0,0
-277,0,0,0,0,0,2021-02-25T00:13:28.546Z,Yes,0,0,0,0,No,0,0,0,0,0
-278,0,0,0,0,0,2021-02-27T20:01:27.509Z,Yes,0,0,0,2021-02-27T20:01:27.976Z,Yes,0,0,0,0,0
-279,0,0,0,0,0,2021-03-02T03:37:44.544Z,Yes,0,0,0,0,No,0,0,0,0,0
-280,0,0,0,0,0,2021-03-02T15:54:35.489Z,Yes,0,0,0,0,No,0,0,0,0,0
-281,0,0,0,0,0,2021-03-02T21:05:29.667Z,Yes,0,0,0,0,No,0,0,0,0,0
-282,0,0,0,0,0,2021-03-02T22:21:45.793Z,Yes,0,0,0,0,No,0,0,0,0,0
-283,0,0,0,0,0,2021-03-02T23:55:58.835Z,Yes,0,0,0,0,No,0,0,0,0,0
-284,0,0,0,0,0,2021-03-03T00:02:37.687Z,Yes,0,0,0,0,No,0,0,0,0,0
-285,0,0,0,0,0,2021-03-03T00:32:11.563Z,Yes,0,0,0,0,No,0,0,0,0,0
-286,0,0,0,0,0,2021-03-03T01:00:20.847Z,Yes,0,0,0,2021-03-03T01:00:21.024Z,Yes,0,0,0,0,0
-287,0,0,0,0,0,2021-03-03T14:07:05.649Z,Yes,0,0,0,0,No,0,0,0,0,0
-288,0,0,0,0,0,2021-03-03T14:38:09.069Z,Yes,0,0,0,2021-03-03T14:38:09.225Z,Yes,0,0,0,0,0
-289,0,0,0,0,0,2021-03-03T16:21:53.606Z,Yes,0,0,0,0,No,0,0,0,0,0
-290,0,0,0,0,0,2021-03-04T22:19:12.075Z,Yes,0,0,0,0,No,0,0,0,0,0
-291,0,0,0,0,0,2021-03-08T22:10:00.648Z,Yes,0,0,0,2021-03-08T22:10:00.796Z,Yes,0,0,0,0,0
-292,0,0,0,0,0,2021-03-11T18:17:55.814Z,Yes,0,0,0,2021-03-11T18:17:56.004Z,Yes,0,0,0,0,0
-293,0,0,0,0,0,2021-03-12T20:25:22.271Z,Yes,0,0,0,2021-03-12T20:25:22.517Z,Yes,0,0,0,0,0
-294,0,0,0,0,0,2021-03-13T00:48:13.622Z,Yes,0,0,0,2021-03-13T00:48:13.726Z,Yes,0,0,0,0,0
-295,0,0,0,0,0,2021-03-14T17:34:44.861Z,Yes,0,0,0,2021-03-14T17:34:45.179Z,Yes,0,0,0,0,0
-296,0,0,0,0,0,0,No,0,0,0,2021-02-25T04:45:53.407Z,Yes,0,0,0,0,0
+quest_id,gender,Age,Commune_Name,Application_Date,Enroll_Date,is_enrolled,education_level,Communication_Channels,Bootcamp_Interest,Payment_Date,Paid,List_Technologies,Study_Domains,formal_sector_job,have_computer_home,internet_at_home
+9069789e-ce95-11eb-883e-7c67a234f601,male,25,Aquin,2021-02-16 18:14:20.488505+00:00,,No,Bachelors (bacc +4),Friend,Training to start my own company,,No,"Java, PHP","Management, Computer Science",unknown,Yes,Yes
+906a79ae-ce95-11eb-98c3-7c67a234f601,male,25,Cap-Haitien,2021-02-21 12:38:57.408531+00:00,2021-02-21T12:41:32.008Z,Yes,Bachelors (bacc +4),Facebook,Finding a job/internship,,No,"Excel, other",other,No,Yes,Yes
+906a79af-ce95-11eb-bd36-7c67a234f601,male,33,Cap-Haitien,2021-02-21 16:06:15.024499+00:00,2021-02-23T12:21:53.058Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"Java, PHP, Excel, SQL",Computer Science,unknown,Yes,No
+906aa0a0-ce95-11eb-8355-7c67a234f601,male,29,Cap-Haitien,2021-03-03 00:04:49.909094+00:00,2021-03-03T00:12:31.944Z,Yes,Other,Facebook,Mentorship,,No,,Law,unknown,Yes,No
+906aa0a1-ce95-11eb-899e-7c67a234f601,male,34,Cap-Haitien,2021-03-05 10:29:32.308601+00:00,,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,,No,Excel,"Law, other",unknown,Yes,Yes
+906aa0a2-ce95-11eb-90cb-7c67a234f601,male,25,Cap-Haitien,2021-03-12 04:42:47.220352+00:00,,No,Bachelors (bacc +4),Facebook,Training to start my own company,,No,"R, Python, Excel",Economics,unknown,Yes,Yes
+9069789d-ce95-11eb-990c-7c67a234f601,male,27,Caracol,2021-02-16 17:18:55.967122+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"R, SQL, Excel, PowerBI or Tableau, other",other,unknown,Yes,Yes
+9066abb6-ce95-11eb-b526-7c67a234f601,male,24,Carrefour,2021-02-16 16:24:18.253185+00:00,2021-02-16T16:49:01.425Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"Java, Excel",Statistics,unknown,Yes,No
+9066abb7-ce95-11eb-846d-7c67a234f601,male,29,Carrefour,2021-02-16 16:48:05.493073+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,R,Economics,No,Yes,Yes
+9066abb8-ce95-11eb-b61d-7c67a234f601,male,29,Carrefour,2021-02-16 17:10:50.323934+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,Excel,"Economics, Statistics",unknown,Yes,Yes
+9066abb9-ce95-11eb-af6a-7c67a234f601,male,24,Carrefour,2021-02-16 17:57:54.429160+00:00,,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,,No,"R, Java, Excel","Statistics, Economics",Yes,No,Yes
+9066d2aa-ce95-11eb-b221-7c67a234f601,female,29,Carrefour,2021-02-16 23:40:28.554450+00:00,,No,Bachelors (bacc +4),Bootcamp Alumni,Finding a job/internship,,No,Excel,other,unknown,Yes,Yes
+9066d2ab-ce95-11eb-be67-7c67a234f601,male,23,Carrefour,2021-02-17 00:45:00.560960+00:00,2021-02-20T22:56:24.115Z,Yes,Bachelors (bacc +4),Ayiti Analytics Website,Training to start my own company,2021-02-20T22:56:24.236Z,Yes,"Python, Excel, other",Economics,unknown,Yes,No
+9066d2ac-ce95-11eb-8752-7c67a234f601,male,30,Carrefour,2021-02-17 02:49:45.203410+00:00,,No,Bachelors (bacc +4),Facebook,Finding a job/internship,,No,"Excel, SQL, PHP",Computer Science,unknown,Yes,Yes
+9066d2ad-ce95-11eb-82c7-7c67a234f601,male,25,Carrefour,2021-02-17 03:08:04.319741+00:00,,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,,No,"VBA, SQL, Excel",Computer Science,unknown,Yes,Yes
+9066faad-ce95-11eb-a4b7-7c67a234f601,female,21,Carrefour,2021-02-17 05:34:46.399289+00:00,,No,High School (16 years),WhatsApp,Improving my data analysis skills,,No,"Excel, Python, Java","Management, Law",unknown,Yes,Yes
+9066faae-ce95-11eb-9b99-7c67a234f601,female,26,Carrefour,2021-02-17 18:24:05.354476+00:00,,No,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,,No,"R, Python, Java, JavaScript, SQL, Excel","Economics, Statistics",unknown,Yes,Yes
+9066faaf-ce95-11eb-beb4-7c67a234f601,male,20,Carrefour,2021-02-17 21:40:53.098498+00:00,2021-03-11T19:32:08.189Z,Yes,Other,Facebook,Improving my data analysis skills,2021-03-11T19:32:08.362Z,Yes,"PHP, SQL",Computer Science,unknown,No,No
+9066fab0-ce95-11eb-ba75-7c67a234f601,male,24,Carrefour,2021-02-17 21:42:17.623592+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,R,"Economics, Management",unknown,Yes,Yes
+9066fab1-ce95-11eb-a4e2-7c67a234f601,female,-1,Carrefour,2021-02-18 15:55:37.861907+00:00,2021-02-18T15:59:18.215Z,Yes,Bachelors (bacc +4),Facebook,Finding a job/internship,,No,"Excel, JavaScript",other,unknown,Yes,Yes
+90672094-ce95-11eb-9bfe-7c67a234f601,female,28,Carrefour,2021-02-18 18:38:19.386286+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,Excel,other,unknown,Yes,Yes
+90672095-ce95-11eb-a84d-7c67a234f601,male,25,Carrefour,2021-02-19 13:38:16.645998+00:00,2021-02-19T13:47:49.359Z,Yes,Bachelors (bacc +4),Friend,Training to start my own company,,No,"Java, JavaScript, PHP, SQL",Computer Science,unknown,Yes,No
+90672096-ce95-11eb-9663-7c67a234f601,male,21,Carrefour,2021-02-22 10:31:57.588071+00:00,2021-02-22T10:36:44.434Z,Yes,Other,WhatsApp,Improving my data analysis skills,,No,Excel,Computer Science,unknown,Yes,Yes
+90672097-ce95-11eb-b73b-7c67a234f601,male,32,Carrefour,2021-02-22 18:19:25.534644+00:00,2021-02-22T18:30:31.677Z,Yes,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,2021-02-24T19:23:15.135Z,Yes,"Excel, R, PowerBI or Tableau",Economics,Yes,Yes,No
+90674789-ce95-11eb-ac21-7c67a234f601,male,27,Carrefour,2021-02-24 19:31:28.353719+00:00,2021-02-24T19:37:18.680Z,Yes,Masters,Bootcamp Alumni,Improving my data analysis skills,2021-02-24T19:37:18.806Z,Yes,"Python, JavaScript",other,unknown,Yes,Yes
+9067478a-ce95-11eb-bc48-7c67a234f601,male,30,Carrefour,2021-02-25 20:16:13.769377+00:00,,No,Bachelors (bacc +4),Facebook,Switching careers,,No,"Excel, SQL, VBA, PHP",Computer Science,Yes,Yes,Yes
+9067478b-ce95-11eb-aba9-7c67a234f601,female,26,Carrefour,2021-02-26 01:33:19.949570+00:00,,No,Bachelors (bacc +4),Ayiti Analytics Website,Training to start my own company,,No,other,Computer Science,unknown,Yes,Yes
+9067478c-ce95-11eb-94f6-7c67a234f601,male,24,Carrefour,2021-03-02 18:38:54.971262+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"Java, Excel, SQL",other,unknown,Yes,Yes
+90676757-ce95-11eb-85fc-7c67a234f601,male,22,Carrefour,2021-03-03 01:28:33.196307+00:00,,No,High School (16 years),other,other,,No,"PHP, SQL, Excel, Bash, Python",Computer Science,unknown,Yes,Yes
+90677020-ce95-11eb-a2f6-7c67a234f601,male,20,Carrefour,2021-03-03 20:27:18.237080+00:00,,No,High School (16 years),Friend,Improving my data analysis skills,,No,R,Economics,unknown,Yes,Yes
+9069a206-ce95-11eb-9c6f-7c67a234f601,female,-1,Cite Soleil,2021-02-17 14:12:06.298936+00:00,,No,Other,ESIH,Improving my data analysis skills,,No,"PHP, SQL",Computer Science,unknown,Yes,Yes
+9069a207-ce95-11eb-9148-7c67a234f601,male,28,Cite Soleil,2021-02-18 02:43:54.127582+00:00,,No,Other,WhatsApp,Improving my data analysis skills,,No,Excel,Medicine,unknown,Yes,Yes
+9069b6e0-ce95-11eb-9f22-7c67a234f601,male,20,Cite Soleil,2021-03-01 13:52:56.086418+00:00,,No,Bachelors (bacc +4),WhatsApp,Mentorship,,No,"Python, JavaScript, PHP",Management,No,Yes,Yes
+906a04c8-ce95-11eb-b468-7c67a234f601,male,40,Cornillon / Grand Bois,2021-02-19 11:33:21.210586+00:00,2021-02-21T06:03:46.436Z,Yes,Bachelors (bacc +4),Ayiti Analytics Website,Finding a job/internship,2021-02-21T06:03:46.665Z,Yes,"Excel, SQL, PHP, Java",Computer Science,unknown,Yes,Yes
+90691afb-ce95-11eb-a4c3-7c67a234f601,male,-1,Croix-Des-Bouquets,2021-02-16 17:08:47.869483+00:00,2021-03-13T03:54:12.215Z,Yes,Bachelors (bacc +4),WhatsApp,Training to start my own company,2021-03-13T03:54:12.406Z,Yes,"Java, Python, JavaScript, PHP, SQL, Git",Computer Science,unknown,Yes,Yes
+90691afc-ce95-11eb-98d0-7c67a234f601,male,23,Croix-Des-Bouquets,2021-02-16 18:00:27.393460+00:00,,No,High School (16 years),Instagram,Finding a job/internship,,No,"Excel, PowerBI or Tableau",other,unknown,Yes,Yes
+90691afd-ce95-11eb-b77d-7c67a234f601,male,28,Croix-Des-Bouquets,2021-02-16 21:05:32.642234+00:00,2021-02-16T21:13:48.783Z,Yes,Bachelors (bacc +4),Friend,Switching careers,,No,"PHP, Excel, SQL",Computer Science,unknown,Yes,Yes
+90691afe-ce95-11eb-bc64-7c67a234f601,male,20,Croix-Des-Bouquets,2021-02-17 03:06:37.042152+00:00,2021-02-17T03:19:47.548Z,Yes,High School (16 years),ESIH,Training to start my own company,,No,Excel,"Computer Science, Accounting",unknown,Yes,Yes
+90694207-ce95-11eb-b358-7c67a234f601,male,28,Croix-Des-Bouquets,2021-02-19 23:07:18.188256+00:00,,No,Bachelors (bacc +4),Friend,Training to start my own company,,No,Excel,Management,unknown,Yes,Yes
+90694e10-ce95-11eb-b312-7c67a234f601,male,33,Croix-Des-Bouquets,2021-02-20 15:03:34.162936+00:00,,No,Other,Facebook,Improving my data analysis skills,,No,Excel,Computer Science,unknown,Yes,No
+90694e11-ce95-11eb-838b-7c67a234f601,male,27,Croix-Des-Bouquets,2021-02-24 21:55:07.312669+00:00,,No,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,,No,"R, Python, Excel",other,unknown,Yes,Yes
+90694e12-ce95-11eb-812d-7c67a234f601,male,23,Croix-Des-Bouquets,2021-02-25 23:23:17.756155+00:00,,No,High School (16 years),Friend,Finding a job/internship,,No,Python,Computer Science,unknown,Yes,No
+90694e13-ce95-11eb-bb46-7c67a234f601,male,30,Croix-Des-Bouquets,2021-03-10 15:16:55.721729+00:00,2021-03-11T17:21:08.831Z,Yes,Other,Facebook,Finding a job/internship,2021-03-11T17:21:09.148Z,Yes,Excel,other,unknown,Yes,Yes
+906968f5-ce95-11eb-9e1a-7c67a234f601,male,23,Croix-Des-Bouquets,2021-03-12 18:32:38.443553+00:00,2021-03-12T19:29:28.112Z,Yes,Masters,Friend,Improving my data analysis skills,2021-03-12T19:29:22.832Z,Yes,"Excel, PowerBI or Tableau",other,Yes,Yes,Yes
+90625b11-ce95-11eb-b351-7c67a234f601,male,28,Delmas,2021-02-16 01:05:44.369849+00:00,,No,Bachelors (bacc +4),Bootcamp Alumni,unknown,,No,"SQL, PHP, JavaScript, Java, Python, Excel, Git",Computer Science,Yes,Yes,Yes
+90626928-ce95-11eb-8f5e-7c67a234f601,male,24,Delmas,2021-02-16 16:26:21.193125+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"SQL, Java, Python, Excel","Economics, Management",unknown,Yes,Yes
+90626929-ce95-11eb-86fe-7c67a234f601,male,26,Delmas,2021-02-16 16:27:10.480908+00:00,,No,Bachelors (bacc +4),Friend,Training to start my own company,,No,Excel,Computer Science,unknown,Yes,No
+9062692a-ce95-11eb-8ab8-7c67a234f601,male,23,Delmas,2021-02-16 16:36:10.222174+00:00,2021-02-24T14:42:56.475Z,Yes,High School (16 years),Friend,Improving my data analysis skills,2021-02-24T14:42:56.637Z,Yes,"Python, other",Management,unknown,Yes,No
+90628a02-ce95-11eb-9291-7c67a234f601,male,25,Delmas,2021-02-16 17:00:03.452712+00:00,2021-02-16T17:51:35.464Z,Yes,Bachelors (bacc +4),WhatsApp,Finding a job/internship,2021-02-16T14:04:48Z,Yes,Excel,"Management, Economics",unknown,Yes,Yes
+90628fbe-ce95-11eb-bb9e-7c67a234f601,female,22,Delmas,2021-02-16 17:02:05.952824+00:00,,No,Other,Friend,Improving my data analysis skills,,No,Excel,other,unknown,Yes,Yes
+90628fbf-ce95-11eb-819c-7c67a234f601,male,23,Delmas,2021-02-16 17:12:01.065900+00:00,2021-02-16T17:18:51.956Z,Yes,Other,Bootcamp Alumni,Improving my data analysis skills,2021-02-16T14:04:48Z,Yes,"R, Python, SQL, PowerBI or Tableau, Excel","Statistics, Economics",unknown,Yes,Yes
+90628fc0-ce95-11eb-8dae-7c67a234f601,male,22,Delmas,2021-02-16 17:12:43.244960+00:00,2021-02-04T22:48:10.874Z,Yes,High School (16 years),Friend,Improving my data analysis skills,2021-02-22T17:12:27.102Z,Yes,"Python, PHP, SQL, Excel, Git",Computer Science,unknown,Yes,Yes
+9062b753-ce95-11eb-8959-7c67a234f601,male,26,Delmas,2021-02-16 17:15:53.886009+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,Java,other,unknown,Yes,Yes
+9062b754-ce95-11eb-b31e-7c67a234f601,male,24,Delmas,2021-02-16 17:41:52.503398+00:00,2021-02-17T10:58:44.017Z,Yes,High School (16 years),Instagram,Finding a job/internship,2021-02-17T11:08:54.385Z,Yes,Excel,other,unknown,Yes,Yes
+9062b755-ce95-11eb-85a2-7c67a234f601,female,27,Delmas,2021-02-16 21:06:25.264996+00:00,2021-02-16T21:29:47.980Z,Yes,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,2021-02-22T17:29:44.762Z,Yes,Excel,Management,unknown,No,Yes
+9062ddb1-ce95-11eb-bd2f-7c67a234f601,male,37,Delmas,2021-02-16 22:07:20.111410+00:00,,No,Bachelors (bacc +4),WhatsApp,Finding a job/internship,,No,Excel,Management,Yes,Yes,Yes
+9062ddb2-ce95-11eb-89d0-7c67a234f601,male,25,Delmas,2021-02-16 22:15:07.433512+00:00,,No,Bachelors (bacc +4),WhatsApp,Finding a job/internship,,No,"JavaScript, PHP, SQL, Java, Git",Computer Science,Yes,Yes,No
+9062ddb3-ce95-11eb-acc8-7c67a234f601,female,21,Delmas,2021-02-17 01:30:06.750403+00:00,,No,Bachelors (bacc +4),Instagram,Training to start my own company,,No,"Excel, Java",Management,unknown,Yes,Yes
+906304a6-ce95-11eb-b475-7c67a234f601,female,22,Delmas,2021-02-17 04:12:02.173025+00:00,,No,High School (16 years),Ayiti Analytics Website,Improving my data analysis skills,,No,"R, Java, JavaScript, PHP, Git, Excel, SQL",Computer Science,unknown,Yes,Yes
+906304a7-ce95-11eb-b805-7c67a234f601,male,25,Delmas,2021-02-17 07:18:23.439309+00:00,,No,Other,Friend,Mentorship,,No,"Java, SQL, PHP",Computer Science,unknown,Yes,Yes
+90632b9f-ce95-11eb-bb7f-7c67a234f601,male,22,Delmas,2021-02-17 09:08:05.640189+00:00,2021-02-17T09:11:52.453Z,Yes,Other,LinkedIn,Training to start my own company,,No,"JavaScript, Excel",other,unknown,Yes,Yes
+90632ba0-ce95-11eb-b7c2-7c67a234f601,male,24,Delmas,2021-02-17 11:54:21.197058+00:00,2021-02-17T11:57:37.102Z,Yes,High School (16 years),WhatsApp,Finding a job/internship,,No,other,Law,Yes,Yes,Yes
+9063799a-ce95-11eb-b32b-7c67a234f601,male,25,Delmas,2021-02-17 12:43:01.698895+00:00,,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,,No,"JavaScript, Java, PHP, SQL, Excel, Bash","Computer Science, Management",unknown,Yes,Yes
+9063a260-ce95-11eb-87e8-7c67a234f601,male,37,Delmas,2021-02-17 12:50:31.776340+00:00,2021-02-17T13:13:12.166Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"Java, PHP, Excel, Git",Computer Science,Yes,Yes,Yes
+9063c77d-ce95-11eb-a120-7c67a234f601,male,25,Delmas,2021-02-17 12:53:03.071352+00:00,,No,Other,WhatsApp,Finding a job/internship,,No,"Excel, other",Accounting,unknown,Yes,Yes
+9063c77e-ce95-11eb-81b3-7c67a234f601,male,33,Delmas,2021-02-17 13:22:04.308751+00:00,,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,,No,"other, Excel",other,unknown,Yes,Yes
+9063ee76-ce95-11eb-a84b-7c67a234f601,male,24,Delmas,2021-02-17 23:09:22.751788+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"PHP, SQL, Excel, Java, Git",Computer Science,unknown,Yes,Yes
+9063ee77-ce95-11eb-9098-7c67a234f601,male,21,Delmas,2021-02-18 00:53:55.732450+00:00,,No,High School (16 years),Instagram,Training to start my own company,,No,JavaScript,other,unknown,No,Yes
+9063ee78-ce95-11eb-a8d6-7c67a234f601,male,40,Delmas,2021-02-18 02:47:30.244082+00:00,2021-02-18T02:53:51.024Z,Yes,Other,LinkedIn,Switching careers,,No,"Git, SQL, JavaScript, other, R",Computer Science,unknown,Yes,Yes
+90642613-ce95-11eb-8b26-7c67a234f601,male,28,Delmas,2021-02-18 03:40:41.168167+00:00,2021-02-18T19:22:10.715Z,Yes,Bachelors (bacc +4),ESIH,Improving my data analysis skills,2021-02-18T22:06:50.519Z,Yes,"PHP, Java, SQL, Excel, JavaScript",Computer Science,unknown,Yes,Yes
+90642614-ce95-11eb-8db0-7c67a234f601,male,23,Delmas,2021-02-18 04:28:39.304650+00:00,,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,,No,"SQL, Excel, Java, PHP","Computer Science, Management",unknown,Yes,Yes
+90643c59-ce95-11eb-aec2-7c67a234f601,male,31,Delmas,2021-02-18 05:22:51.606029+00:00,2021-02-18T05:29:55.849Z,Yes,Bachelors (bacc +4),Friend,Finding a job/internship,,No,"Python, Java, Excel, Git, SQL, PHP","Electrical Engineering, Computer Science",unknown,Yes,Yes
+90643c5a-ce95-11eb-b510-7c67a234f601,male,24,Delmas,2021-02-18 11:44:40.031598+00:00,2021-02-21T15:55:59.494Z,Yes,Other,Friend,Training to start my own company,2021-02-21T15:55:59.689Z,Yes,"Java, JavaScript, PHP",Computer Science,Yes,Yes,Yes
+90646353-ce95-11eb-9f27-7c67a234f601,male,29,Delmas,2021-02-18 12:45:07.226754+00:00,,No,Other,Friend,Training to start my own company,,No,"Excel, other",other,unknown,Yes,No
+90646354-ce95-11eb-a5c9-7c67a234f601,male,46,Delmas,2021-02-18 13:42:10.493306+00:00,2021-02-18T13:46:19.814Z,Yes,Bachelors (bacc +4),LinkedIn,Training to start my own company,,No,"Python, Excel",Economics,Yes,Yes,Yes
+90646355-ce95-11eb-ae9f-7c67a234f601,male,26,Delmas,2021-02-18 14:52:39.191595+00:00,,No,Bachelors (bacc +4),Friend,Switching careers,,No,Excel,other,unknown,Yes,No
+9064923a-ce95-11eb-a2ad-7c67a234f601,female,23,Delmas,2021-02-18 15:13:14.212518+00:00,2021-02-18T15:21:09.315Z,Yes,Other,Facebook,Improving my data analysis skills,2021-02-18T15:21:09.568Z,Yes,"Excel, Java",Economics,unknown,Yes,Yes
+9064923b-ce95-11eb-a771-7c67a234f601,male,-1,Delmas,2021-02-18 15:18:22.153494+00:00,,No,Other,Friend,Improving my data analysis skills,,No,"SQL, Java",Computer Science,unknown,Yes,Yes
+9064b6be-ce95-11eb-b2ac-7c67a234f601,male,22,Delmas,2021-02-18 18:18:36.397314+00:00,2021-02-21T16:00:54.938Z,Yes,Other,Friend,Finding a job/internship,2021-02-21T16:00:55.063Z,Yes,"JavaScript, PHP, Excel","Computer Science, other, Management",unknown,Yes,Yes
+9064c427-ce95-11eb-9d48-7c67a234f601,male,30,Delmas,2021-02-19 03:24:03.131040+00:00,2021-02-19T03:29:02.686Z,Yes,Other,WhatsApp,Finding a job/internship,,No,Excel,other,unknown,Yes,No
+9064c428-ce95-11eb-a021-7c67a234f601,male,29,Delmas,2021-02-19 14:16:15.453467+00:00,2021-03-08T17:26:35.715Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-08T17:26:35.841Z,Yes,"Java, JavaScript, PHP, SQL, other",Computer Science,unknown,Yes,No
+9064d839-ce95-11eb-8172-7c67a234f601,male,31,Delmas,2021-02-19 16:38:01.548810+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"R, SQL, Excel",Computer Science,Yes,Yes,Yes
+9064d83a-ce95-11eb-9bef-7c67a234f601,male,33,Delmas,2021-02-19 16:47:36.901457+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"SQL, Excel",Computer Science,Yes,Yes,Yes
+9064d83b-ce95-11eb-a034-7c67a234f601,male,34,Delmas,2021-02-20 08:42:34.174812+00:00,,No,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,,No,"Excel, SQL, PowerBI or Tableau, Java, PHP",Computer Science,Yes,Yes,Yes
+9064d83c-ce95-11eb-bc96-7c67a234f601,male,29,Delmas,2021-02-20 15:50:20.409971+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"R, VBA, Excel","Accounting, Management",No,Yes,Yes
+9064ff26-ce95-11eb-8428-7c67a234f601,male,23,Delmas,2021-02-20 19:05:30.429780+00:00,2021-03-04T18:01:35.290Z,Yes,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,2021-03-04T18:01:35.651Z,Yes,Excel,Accounting,unknown,Yes,Yes
+9064ff27-ce95-11eb-aaa6-7c67a234f601,male,30,Delmas,2021-02-21 17:51:13.742572+00:00,2021-02-21T21:51:56.154Z,Yes,Bachelors (bacc +4),LinkedIn,Finding a job/internship,2021-02-21T21:51:56.290Z,Yes,"R, Python, Java, SQL, Excel, PowerBI or Tableau, Bash",other,unknown,Yes,Yes
+9064ff28-ce95-11eb-857f-7c67a234f601,female,31,Delmas,2021-02-23 15:28:46.593246+00:00,2021-02-23T15:42:23.175Z,Yes,Masters,Bootcamp Alumni,Improving my data analysis skills,2021-02-23T15:42:17.501Z,Yes,"SQL, Java",Computer Science,Yes,Yes,Yes
+9064ff29-ce95-11eb-a3d3-7c67a234f601,female,34,Delmas,2021-02-23 16:25:06.358601+00:00,2021-02-23T16:31:57.817Z,Yes,Masters,WhatsApp,Finding a job/internship,2021-03-11T16:01:17.901Z,Yes,,Computer Science,unknown,Yes,Yes
+9064ff2a-ce95-11eb-8430-7c67a234f601,male,26,Delmas,2021-02-23 16:27:50.579704+00:00,,No,Other,WhatsApp,Mentorship,,No,Excel,other,unknown,Yes,Yes
+90652a93-ce95-11eb-a8af-7c67a234f601,male,24,Delmas,2021-02-24 04:06:28.622653+00:00,2021-03-05T15:32:34.635Z,Yes,Bachelors (bacc +4),Friend,Finding a job/internship,2021-03-09T07:44:32.357Z,Yes,Excel,Computer Science,Yes,Yes,Yes
+90652a94-ce95-11eb-892d-7c67a234f601,female,26,Delmas,2021-02-25 01:08:53.117097+00:00,,No,Other,Bootcamp Alumni,Finding a job/internship,,No,Excel,other,unknown,No,No
+90652a95-ce95-11eb-8845-7c67a234f601,male,26,Delmas,2021-02-25 02:10:22.051972+00:00,,No,Bachelors (bacc +4),Ayiti Analytics Website,Mentorship,,No,"Excel, JavaScript, Java",other,unknown,Yes,Yes
+90652a96-ce95-11eb-97b2-7c67a234f601,male,25,Delmas,2021-02-25 05:08:47.102397+00:00,,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,,No,"R, Python, Java, SQL, Excel",Statistics,unknown,Yes,Yes
+90652a97-ce95-11eb-856d-7c67a234f601,male,21,Delmas,2021-02-25 17:19:54.464458+00:00,2021-02-25T17:38:24.509Z,Yes,Bachelors (bacc +4),ESIH,Improving my data analysis skills,,No,"PHP, SQL, Excel",,unknown,Yes,Yes
+906555be-ce95-11eb-9d03-7c67a234f601,male,26,Delmas,2021-02-26 19:53:22.780616+00:00,,No,Other,Friend,Training to start my own company,,No,Excel,Management,Yes,Yes,Yes
+906555bf-ce95-11eb-92ac-7c67a234f601,male,23,Delmas,2021-02-27 12:34:01.718182+00:00,,No,High School (16 years),WhatsApp,Improving my data analysis skills,,No,Excel,Computer Science,Yes,Yes,Yes
+906555c0-ce95-11eb-a091-7c67a234f601,male,22,Delmas,2021-02-27 19:43:50.291167+00:00,,No,Other,Friend,Switching careers,,No,"Excel, other",Management,unknown,Yes,Yes
+906555c1-ce95-11eb-95e0-7c67a234f601,male,29,Delmas,2021-03-01 04:52:38.470727+00:00,2021-03-01T04:57:51.037Z,Yes,Bachelors (bacc +4),ESIH,Finding a job/internship,2021-03-12T20:33:14.700Z,Yes,"SQL, JavaScript, Java, Python, Excel",Computer Science,unknown,Yes,Yes
+9065740c-ce95-11eb-968f-7c67a234f601,female,32,Delmas,2021-03-03 00:31:59.217980+00:00,2021-03-03T00:35:34.665Z,Yes,Masters,Friend,Improving my data analysis skills,2021-03-03T00:35:29.698Z,Yes,"Excel, R",Statistics,unknown,Yes,Yes
+90658229-ce95-11eb-ab19-7c67a234f601,male,40,Delmas,2021-03-03 08:49:43.788739+00:00,,No,Bachelors (bacc +4),Facebook,Training to start my own company,,No,Excel,other,unknown,No,No
+9065822a-ce95-11eb-9df5-7c67a234f601,female,-1,Delmas,2021-03-03 16:42:19.840773+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,Excel,other,unknown,Yes,Yes
+9065822b-ce95-11eb-a3e6-7c67a234f601,male,50,Delmas,2021-03-05 22:14:55.182361+00:00,,No,Masters,other,Improving my data analysis skills,,No,"R, Python, Git, Bash, Excel, PHP",Computer Science,Yes,Yes,Yes
+90659aff-ce95-11eb-bcbe-7c67a234f601,male,24,Delmas,2021-03-06 00:07:10.794687+00:00,2021-03-08T18:52:09.038Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-08T18:52:09.147Z,Yes,"Python, Excel",Management,unknown,Yes,Yes
+90659b00-ce95-11eb-9e8f-7c67a234f601,male,23,Delmas,2021-03-06 01:31:38.452703+00:00,2021-03-08T05:08:50.684Z,Yes,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,2021-03-08T05:08:50.832Z,Yes,"R, Java, Python, Excel","Statistics, Economics",unknown,Yes,Yes
+90659b01-ce95-11eb-b7ea-7c67a234f601,male,26,Delmas,2021-03-06 18:06:24.355405+00:00,2021-03-09T16:23:41.152Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-09T16:23:41.405Z,Yes,"SQL, Excel",Computer Science,unknown,Yes,No
+90659b02-ce95-11eb-a379-7c67a234f601,male,30,Delmas,2021-03-07 21:46:33.585073+00:00,,No,"Doctorate (PhD, MD, JD)",Friend,Improving my data analysis skills,,No,Excel,Medicine,Yes,Yes,Yes
+9065cffb-ce95-11eb-b326-7c67a234f601,male,20,Delmas,2021-03-08 18:11:56.992794+00:00,,No,High School (16 years),Ayiti Analytics Website,Switching careers,,No,"Python, R, PHP, SQL, PowerBI or Tableau, Excel, Git, other",,unknown,Yes,Yes
+9065e939-ce95-11eb-9702-7c67a234f601,male,24,Delmas,2021-03-08 19:11:26.440484+00:00,,No,Bachelors (bacc +4),Facebook,Finding a job/internship,,No,Excel,Management,unknown,No,Yes
+9065e93a-ce95-11eb-887d-7c67a234f601,female,23,Delmas,2021-03-10 03:24:38.241951+00:00,,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,,No,"Excel, Java, JavaScript",Management,unknown,Yes,Yes
+90660fe1-ce95-11eb-a30e-7c67a234f601,female,22,Delmas,2021-03-10 22:18:54.126612+00:00,,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,,No,"PHP, JavaScript, Java, SQL, Excel, Python",Computer Science,unknown,Yes,Yes
+90660fe2-ce95-11eb-a2b5-7c67a234f601,male,28,Delmas,2021-03-11 20:33:09.038647+00:00,,No,Bachelors (bacc +4),Facebook,Switching careers,,No,"Excel, PowerBI or Tableau",other,unknown,Yes,Yes
+90660fe3-ce95-11eb-8747-7c67a234f601,male,26,Delmas,2021-03-12 17:20:46.946754+00:00,,No,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,,No,"JavaScript, Python",Computer Science,Yes,Yes,Yes
+906636ce-ce95-11eb-ba43-7c67a234f601,male,33,Delmas,2021-03-13 00:10:59.350909+00:00,,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,,No,"Excel, PowerBI or Tableau",other,Yes,Yes,Yes
+906636cf-ce95-11eb-8679-7c67a234f601,male,39,Delmas,2021-03-13 15:17:07.801068+00:00,2021-03-14T04:20:30.803Z,Yes,Masters,Friend,Improving my data analysis skills,2021-03-14T04:20:23.483Z,Yes,"VBA, SQL, Excel, PowerBI or Tableau, other",Management,Yes,Yes,Yes
+906a79ad-ce95-11eb-b186-7c67a234f601,male,23,Dondon,2021-02-21 10:47:46.723590+00:00,,No,Other,Facebook,Finding a job/internship,,No,,"Electrical Engineering, Computer Science",No,Yes,No
+906b65e2-ce95-11eb-8b5c-7c67a234f601,male,28,Ferrier,2021-03-08 16:35:07.806100+00:00,2021-03-08T19:06:32.719Z,Yes,Bachelors (bacc +4),Facebook,Improving my data analysis skills,2021-03-08T19:06:32.837Z,Yes,SQL,Computer Science,unknown,Yes,Yes
+906a2d41-ce95-11eb-b7f9-7c67a234f601,female,28,Ganthier,2021-02-20 02:22:39.296532+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"Excel, other",Economics,unknown,Yes,No
+906a2d42-ce95-11eb-a3de-7c67a234f601,male,38,Grand-Goave,2021-02-20 10:01:36.488443+00:00,,No,Bachelors (bacc +4),WhatsApp,Switching careers,,No,"Java, JavaScript, PHP, Excel",other,Yes,Yes,Yes
+906a04ca-ce95-11eb-9b48-7c67a234f601,male,44,Gressier,2021-02-19 17:21:00.071559+00:00,,No,Bachelors (bacc +4),WhatsApp,Mentorship,,No,"JavaScript, Java, PHP, Excel, SQL, other","Computer Science, Economics",Yes,Yes,No
+906636d0-ce95-11eb-9875-7c67a234f601,male,25,Gros Morne,2021-02-16 15:49:56.430348+00:00,2021-02-16T15:55:20.037Z,Yes,Other,WhatsApp,Training to start my own company,,No,Excel,Computer Science,unknown,Yes,Yes
+906aa0a3-ce95-11eb-9611-7c67a234f601,male,28,Hinche,2021-02-21 13:13:21.775384+00:00,,No,Bachelors (bacc +4),WhatsApp,Switching careers,,No,"Excel, Python, Java, JavaScript",other,unknown,Yes,Yes
+9069789f-ce95-11eb-9788-7c67a234f601,male,24,Jacmel,2021-02-16 19:40:36.954470+00:00,2021-02-16T20:09:37.007Z,Yes,High School (16 years),Friend,Training to start my own company,2021-02-16T20:09:31.627Z,Yes,"Bash, Excel, Git, Python, JavaScript","Statistics, Economics, other",unknown,Yes,Yes
+90698fe9-ce95-11eb-a607-7c67a234f601,male,21,Jacmel,2021-02-19 16:41:36.607345+00:00,,No,Bachelors (bacc +4),Friend,Finding a job/internship,,No,Excel,other,unknown,Yes,Yes
+90698fea-ce95-11eb-ae89-7c67a234f601,male,23,Jacmel,2021-02-19 20:45:29.736269+00:00,2021-02-19T21:19:39.035Z,Yes,Bachelors (bacc +4),other,Training to start my own company,,No,"JavaScript, Excel, Git, Python",Computer Science,unknown,Yes,Yes
+906ac788-ce95-11eb-a6f7-7c67a234f601,male,37,Kenscoff,2021-02-23 03:38:07.770681+00:00,,No,Bachelors (bacc +4),Friend,Training to start my own company,,No,Excel,other,Yes,Yes,Yes
+9069cfac-ce95-11eb-9487-7c67a234f601,male,21,Leogane,2021-02-18 15:39:20.543570+00:00,,No,High School (16 years),Facebook,Training to start my own company,,No,"Python, other",other,unknown,Yes,No
+9069ddd5-ce95-11eb-b041-7c67a234f601,male,37,Leogane,2021-03-10 20:44:57.468048+00:00,,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,,No,Excel,Law,No,Yes,Yes
+9069a205-ce95-11eb-be5a-7c67a234f601,female,1,Les Cayes,2021-02-16 20:03:39.432449+00:00,,No,Other,WhatsApp,Improving my data analysis skills,,No,Excel,other,unknown,No,No
+906b1739-ce95-11eb-8944-7c67a234f601,male,27,Limonade,2021-02-25 15:29:35.808052+00:00,,No,Bachelors (bacc +4),WhatsApp,Switching careers,,No,"R, Python, SQL, Excel",other,unknown,Yes,Yes
+906b3c84-ce95-11eb-8c2a-7c67a234f601,male,27,Mirebalais,2021-03-02 18:39:19.873194+00:00,2021-03-02T18:45:26.479Z,Yes,Bachelors (bacc +4),Facebook,Improving my data analysis skills,2021-03-02T18:53:20.759Z,Yes,Excel,other,Yes,Yes,Yes
+906b3c85-ce95-11eb-9b87-7c67a234f601,male,30,Mirebalais,2021-03-10 04:12:49.436154+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"JavaScript, Bash, PowerBI or Tableau, Git, Excel",Medicine,Yes,Yes,Yes
+906b3c86-ce95-11eb-b6a7-7c67a234f601,male,27,Mirebalais,2021-03-14 15:29:32.474015+00:00,2021-03-14T15:34:39.800Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-14T15:34:35.014Z,Yes,"Python, Excel, SQL, PowerBI or Tableau",Statistics,Yes,Yes,Yes
+906a04c9-ce95-11eb-8f6a-7c67a234f601,male,-1,Mombin Crochu,2021-02-19 15:31:45.053863+00:00,,No,High School (16 years),LinkedIn,Improving my data analysis skills,,No,Excel,Economics,unknown,Yes,Yes
+906a52b4-ce95-11eb-b9bd-7c67a234f601,male,-1,Ouanaminthe,2021-02-20 22:03:30.047897+00:00,,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,,No,Excel,Management,Yes,Yes,Yes
+906a52b5-ce95-11eb-9ece-7c67a234f601,male,29,Ouanaminthe,2021-02-20 22:16:10.638707+00:00,,No,Bachelors (bacc +4),WhatsApp,Finding a job/internship,,No,Excel,other,unknown,Yes,Yes
+906a52b6-ce95-11eb-935f-7c67a234f601,male,23,Ouanaminthe,2021-02-21 00:50:07.932505+00:00,2021-02-21T00:53:42.441Z,Yes,Other,WhatsApp,Improving my data analysis skills,,No,Excel,other,unknown,Yes,No
+90677021-ce95-11eb-a3f5-7c67a234f601,male,23,Petion-Ville,2021-02-16 16:40:06.301783+00:00,,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,,No,"Python, JavaScript, PHP, SQL, Excel",Computer Science,unknown,Yes,Yes
+90677022-ce95-11eb-911c-7c67a234f601,male,48,Petion-Ville,2021-02-16 17:18:30.784293+00:00,,No,Masters,WhatsApp,Improving my data analysis skills,,No,"Excel, other",other,unknown,Yes,Yes
+90677023-ce95-11eb-8bd4-7c67a234f601,male,38,Petion-Ville,2021-02-16 17:31:27.713132+00:00,,No,High School (16 years),Friend,Improving my data analysis skills,,No,Excel,other,Yes,Yes,Yes
+9067957a-ce95-11eb-aff1-7c67a234f601,male,25,Petion-Ville,2021-02-16 17:33:06.303297+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"PHP, Python, Git, SQL, Excel",Computer Science,Yes,Yes,Yes
+9067957b-ce95-11eb-a3f9-7c67a234f601,male,23,Petion-Ville,2021-02-16 18:28:34.284083+00:00,2021-02-16T18:39:34.399Z,Yes,Other,Ayiti Analytics Website,Improving my data analysis skills,2021-02-21T19:46:22.624Z,Yes,other,other,unknown,No,Yes
+9067957c-ce95-11eb-9346-7c67a234f601,male,33,Petion-Ville,2021-02-17 07:00:34.144274+00:00,2021-02-17T07:06:55.943Z,Yes,Bachelors (bacc +4),Instagram,Switching careers,,No,Excel,Accounting,unknown,Yes,Yes
+9067957d-ce95-11eb-82b5-7c67a234f601,male,28,Petion-Ville,2021-02-17 08:11:43.133386+00:00,2021-02-17T08:16:36.072Z,Yes,Bachelors (bacc +4),Friend,Switching careers,,No,Excel,other,Yes,No,Yes
+9067bc86-ce95-11eb-b97f-7c67a234f601,male,31,Petion-Ville,2021-02-17 22:09:36.206612+00:00,,No,Other,WhatsApp,Mentorship,,No,PHP,Computer Science,unknown,Yes,Yes
+9067bc87-ce95-11eb-977f-7c67a234f601,male,26,Petion-Ville,2021-02-17 22:47:37.396191+00:00,2021-02-17T22:54:01.044Z,Yes,Bachelors (bacc +4),ESIH,Improving my data analysis skills,,No,"JavaScript, Excel, SQL",Computer Science,unknown,Yes,Yes
+9067ce03-ce95-11eb-8fa0-7c67a234f601,male,26,Petion-Ville,2021-02-18 15:25:41.487725+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"Excel, VBA",other,unknown,Yes,Yes
+9067e4bf-ce95-11eb-afb1-7c67a234f601,male,25,Petion-Ville,2021-02-19 02:49:42.320753+00:00,2021-02-19T14:13:37.258Z,Yes,Other,WhatsApp,Improving my data analysis skills,,No,"Excel, SQL, Java",Computer Science,Yes,Yes,Yes
+9067e4c0-ce95-11eb-bebe-7c67a234f601,male,0,Petion-Ville,2021-02-19 05:54:34.455205+00:00,,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,,No,R,Computer Science,unknown,Yes,No
+9067e4c1-ce95-11eb-b85a-7c67a234f601,male,38,Petion-Ville,2021-02-19 08:58:54.366263+00:00,,No,Bachelors (bacc +4),other,Improving my data analysis skills,,No,"PHP, SQL, Excel",Computer Science,unknown,Yes,Yes
+90680a68-ce95-11eb-9881-7c67a234f601,male,28,Petion-Ville,2021-02-19 14:34:30.594408+00:00,,No,High School (16 years),WhatsApp,Improving my data analysis skills,,No,"Excel, other",,unknown,Yes,Yes
+90680a69-ce95-11eb-ac13-7c67a234f601,male,24,Petion-Ville,2021-02-20 13:36:41.923770+00:00,,No,High School (16 years),WhatsApp,Training to start my own company,,No,"Java, JavaScript, Excel",Computer Science,Yes,No,Yes
+90680a6a-ce95-11eb-bf44-7c67a234f601,male,25,Petion-Ville,2021-02-21 01:07:12.484628+00:00,2021-02-21T01:08:59.590Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-02-24T14:54:21.891Z,Yes,"Python, R, Java, Excel",Statistics,unknown,Yes,Yes
+90680a6b-ce95-11eb-ad05-7c67a234f601,male,27,Petion-Ville,2021-02-21 01:10:49.631395+00:00,2021-02-21T01:27:45.797Z,Yes,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,,No,"Python, Java, JavaScript, PHP, Git, SQL",Computer Science,unknown,Yes,Yes
+906836e2-ce95-11eb-b267-7c67a234f601,female,23,Petion-Ville,2021-02-21 12:55:21.558387+00:00,,No,Bachelors (bacc +4),Facebook,Mentorship,,No,Excel,Law,unknown,Yes,Yes
+90685b18-ce95-11eb-99e6-7c67a234f601,male,24,Petion-Ville,2021-02-21 17:07:08.106580+00:00,2021-02-24T14:49:19.661Z,Yes,Bachelors (bacc +4),Facebook,Training to start my own company,2021-02-24T14:49:19.752Z,Yes,"R, Python, Excel, SQL","Statistics, Economics",unknown,Yes,Yes
+90687faf-ce95-11eb-ba86-7c67a234f601,male,25,Petion-Ville,2021-02-21 17:43:26.893523+00:00,2021-02-28T22:23:16.835Z,Yes,Bachelors (bacc +4),Friend,Training to start my own company,2021-02-28T22:23:17.083Z,Yes,"PHP, SQL, Excel",Computer Science,unknown,Yes,Yes
+90687fb0-ce95-11eb-a8e5-7c67a234f601,male,26,Petion-Ville,2021-02-22 17:17:19.920750+00:00,,No,Bachelors (bacc +4),WhatsApp,Switching careers,,No,,Law,unknown,Yes,Yes
+9068a856-ce95-11eb-bbd6-7c67a234f601,female,37,Petion-Ville,2021-02-25 15:10:49.724391+00:00,,No,Other,Ayiti Analytics Website,Improving my data analysis skills,,No,"Python, SQL, Excel",Computer Science,unknown,Yes,Yes
+9068cd1e-ce95-11eb-a722-7c67a234f601,female,27,Petion-Ville,2021-02-26 17:05:33.951467+00:00,,No,Other,Friend,Finding a job/internship,,No,other,Accounting,unknown,Yes,No
+9068cd1f-ce95-11eb-b712-7c67a234f601,male,26,Petion-Ville,2021-02-26 17:58:14.474058+00:00,,No,Bachelors (bacc +4),Facebook,Finding a job/internship,,No,"Python, other",other,unknown,No,Yes
+9068f405-ce95-11eb-b487-7c67a234f601,male,23,Petion-Ville,2021-02-28 11:04:45.987528+00:00,2021-02-28T11:11:01.228Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-03T13:38:57.368Z,Yes,"Python, R, SQL, Excel, Git, Java",Statistics,unknown,Yes,Yes
+9068f406-ce95-11eb-8144-7c67a234f601,male,30,Petion-Ville,2021-03-02 20:51:47.043962+00:00,,No,Bachelors (bacc +4),Facebook,Finding a job/internship,,No,"Python, Java, PHP",Computer Science,Yes,Yes,Yes
+9068f407-ce95-11eb-a25c-7c67a234f601,male,25,Petion-Ville,2021-03-06 02:02:51.896577+00:00,,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,,No,"PHP, Excel, JavaScript, Java",Computer Science,unknown,Yes,Yes
+9068f408-ce95-11eb-9caf-7c67a234f601,female,45,Petion-Ville,2021-03-10 22:14:04.886930+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"JavaScript, Excel, other",Accounting,unknown,Yes,unknown
+9068f409-ce95-11eb-971f-7c67a234f601,male,30,Petion-Ville,2021-03-11 13:37:53.514304+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"Excel, SQL",Management,unknown,Yes,No
+9069b6e1-ce95-11eb-8356-7c67a234f601,male,26,Petit-Goave,2021-02-17 14:42:41.267216+00:00,,No,High School (16 years),WhatsApp,Switching careers,,No,other,Accounting,unknown,Yes,Yes
+9069ddd6-ce95-11eb-988c-7c67a234f601,male,22,Petite Riviere de l'Artibonite,2021-02-18 16:58:05.948340+00:00,2021-02-18T16:59:56.689Z,Yes,Other,WhatsApp,Training to start my own company,,No,Excel,Management,unknown,Yes,Yes
+906b65e3-ce95-11eb-a294-7c67a234f601,male,27,Petite Riviere de Nippes,2021-03-10 21:41:05.708748+00:00,2021-03-14T02:16:08.736Z,Yes,Masters,Facebook,Improving my data analysis skills,2021-03-14T02:16:08.983Z,Yes,"R, Excel",other,unknown,Yes,Yes
+9069cfab-ce95-11eb-97af-7c67a234f601,male,28,Plaine du Nord,2021-02-17 17:57:26.179478+00:00,,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,,No,Excel,other,unknown,No,No
+905dc006-ce95-11eb-b2f9-7c67a234f601,male,22,Port-au-Prince,2021-02-14 23:03:52.768400+00:00,2021-02-14T23:15:19.500Z,Yes,unknown,unknown,unknown,,No,,,unknown,unknown,unknown
+905ddcf2-ce95-11eb-9a92-7c67a234f601,female,24,Port-au-Prince,2021-02-16 16:01:10.861844+00:00,,No,Bachelors (bacc +4),Friend,Finding a job/internship,,No,"R, Excel",other,unknown,Yes,Yes
+905e2608-ce95-11eb-809f-7c67a234f601,male,24,Port-au-Prince,2021-02-16 16:56:30.579504+00:00,2021-02-20T21:20:37.450Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-03T23:00:11.974Z,Yes,"Python, Java, JavaScript, SQL, Excel, Bash, Git",,unknown,Yes,Yes
+905e4cf5-ce95-11eb-96a9-7c67a234f601,male,24,Port-au-Prince,2021-02-16 16:57:55.754541+00:00,,No,Bachelors (bacc +4),ESIH,Improving my data analysis skills,,No,"Excel, Java, JavaScript, PHP, Python","Computer Science, Management",unknown,Yes,Yes
+905e73fd-ce95-11eb-a7b0-7c67a234f601,male,23,Port-au-Prince,2021-02-16 17:05:40.907948+00:00,,No,High School (16 years),WhatsApp,Mentorship,,No,"PHP, Bash",other,unknown,Yes,Yes
+905e9b27-ce95-11eb-9c37-7c67a234f601,male,24,Port-au-Prince,2021-02-16 18:35:14.430837+00:00,,No,Other,ESIH,Improving my data analysis skills,,No,"Python, Excel, JavaScript, Java, SQL",other,unknown,Yes,Yes
+905ec1ec-ce95-11eb-8136-7c67a234f601,female,32,Port-au-Prince,2021-02-16 20:06:17.885833+00:00,2021-02-16T20:16:35.911Z,Yes,Masters,WhatsApp,Improving my data analysis skills,2021-02-22T19:16:35.371Z,Yes,"R, Python, Java, PHP, SQL, Excel",Computer Science,Yes,Yes,Yes
+905ec1ed-ce95-11eb-829c-7c67a234f601,female,24,Port-au-Prince,2021-02-16 22:54:19.490806+00:00,2021-02-24T16:53:16.967Z,Yes,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,2021-02-24T16:53:17.136Z,Yes,"PHP, Excel, Java, JavaScript",Computer Science,unknown,Yes,Yes
+905ef688-ce95-11eb-9b57-7c67a234f601,female,29,Port-au-Prince,2021-02-17 01:10:41.212269+00:00,,No,Bachelors (bacc +4),ESIH,Mentorship,,No,Excel,Computer Science,unknown,Yes,Yes
+905f0fbd-ce95-11eb-b153-7c67a234f601,female,23,Port-au-Prince,2021-02-17 01:24:40.360076+00:00,,No,High School (16 years),WhatsApp,Training to start my own company,,No,"Excel, Git, Java, PowerBI or Tableau, other",Law,unknown,Yes,Yes
+905f0fbe-ce95-11eb-8396-7c67a234f601,female,26,Port-au-Prince,2021-02-17 01:45:30.152590+00:00,,No,Other,Bootcamp Alumni,Training to start my own company,,No,"Excel, JavaScript, Python",other,unknown,Yes,Yes
+905f36c8-ce95-11eb-bef0-7c67a234f601,female,26,Port-au-Prince,2021-02-17 04:35:17.193779+00:00,2021-02-19T02:33:12.145Z,Yes,Other,Facebook,Finding a job/internship,,No,"Bash, SQL, PHP",Computer Science,Yes,Yes,Yes
+905f36c9-ce95-11eb-aa33-7c67a234f601,male,28,Port-au-Prince,2021-02-17 08:35:45.761623+00:00,,No,Bachelors (bacc +4),Friend,Training to start my own company,,No,"Excel, SQL",Management,unknown,Yes,Yes
+905f36ca-ce95-11eb-9411-7c67a234f601,female,43,Port-au-Prince,2021-02-17 12:13:45.466757+00:00,2021-02-17T12:25:08.308Z,Yes,unknown,Facebook,Mentorship,,No,Excel,"Management, other",Yes,Yes,Yes
+905f5dbf-ce95-11eb-a1fb-7c67a234f601,male,28,Port-au-Prince,2021-02-17 13:37:28.014036+00:00,2021-02-18T22:20:39.620Z,Yes,Bachelors (bacc +4),Facebook,Improving my data analysis skills,,No,"JavaScript, PHP, SQL, Excel",Computer Science,Yes,Yes,Yes
+905f5dc0-ce95-11eb-8056-7c67a234f601,male,27,Port-au-Prince,2021-02-17 14:14:27.915524+00:00,,No,Other,WhatsApp,Switching careers,,No,"Excel, Java",other,unknown,Yes,Yes
+905f5dc1-ce95-11eb-bfa7-7c67a234f601,female,22,Port-au-Prince,2021-02-17 15:07:25.936848+00:00,2021-02-17T15:14:40.939Z,Yes,Other,Facebook,Improving my data analysis skills,2021-02-18T14:45:02.292Z,Yes,"R, Python, Java",Economics,unknown,Yes,Yes
+905f84ab-ce95-11eb-8886-7c67a234f601,male,33,Port-au-Prince,2021-02-17 15:07:34.576832+00:00,,No,Masters,ESIH,Finding a job/internship,,No,"PHP, SQL, Excel, Git, JavaScript, Java",Computer Science,unknown,Yes,Yes
+905f84ac-ce95-11eb-bf5f-7c67a234f601,female,26,Port-au-Prince,2021-02-17 16:23:26.040671+00:00,,No,Bachelors (bacc +4),Bootcamp Alumni,Improving my data analysis skills,,No,"Python, JavaScript, SQL, Excel, R, Java",Economics,unknown,Yes,Yes
+905fab9d-ce95-11eb-a1ed-7c67a234f601,male,28,Port-au-Prince,2021-02-17 17:00:15.323395+00:00,2021-01-26T04:16:38.716Z,Yes,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,,No,"Java, SQL, Excel, PHP, JavaScript, Python",Computer Science,unknown,Yes,Yes
+905fab9e-ce95-11eb-a53d-7c67a234f601,female,25,Port-au-Prince,2021-02-18 02:51:22.345338+00:00,,No,Bachelors (bacc +4),Ayiti Analytics Website,Switching careers,,No,Excel,other,Yes,Yes,Yes
+905fd65b-ce95-11eb-b835-7c67a234f601,male,23,Port-au-Prince,2021-02-18 12:31:36.110753+00:00,2021-02-18T12:41:11.310Z,Yes,Bachelors (bacc +4),WhatsApp,Finding a job/internship,,No,,other,Yes,Yes,Yes
+905ff97f-ce95-11eb-a994-7c67a234f601,male,25,Port-au-Prince,2021-02-18 18:25:49.799197+00:00,,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,,No,"Excel, other",other,unknown,Yes,Yes
+905ff980-ce95-11eb-98b7-7c67a234f601,male,27,Port-au-Prince,2021-02-19 04:48:30.390199+00:00,2021-02-19T04:57:13.593Z,Yes,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"PHP, SQL, Excel, other",other,Yes,Yes,Yes
+90602078-ce95-11eb-bc1d-7c67a234f601,female,22,Port-au-Prince,2021-02-19 15:05:57.007218+00:00,2021-02-19T15:14:32.842Z,Yes,High School (16 years),Friend,Training to start my own company,,No,Excel,Medicine,unknown,Yes,Yes
+906036c8-ce95-11eb-8c78-7c67a234f601,male,-1,Port-au-Prince,2021-02-19 16:36:01.701811+00:00,,No,High School (16 years),WhatsApp,Mentorship,,No,JavaScript,Computer Science,Yes,Yes,Yes
+9060477c-ce95-11eb-ace3-7c67a234f601,male,29,Port-au-Prince,2021-02-19 16:36:50.278947+00:00,2021-02-23T17:22:16.055Z,Yes,Bachelors (bacc +4),WhatsApp,Finding a job/internship,2021-03-12T14:23:11.154Z,Yes,"Excel, SQL",Computer Science,unknown,Yes,No
+9060477d-ce95-11eb-ab2e-7c67a234f601,male,34,Port-au-Prince,2021-02-19 20:44:12.648426+00:00,2021-02-19T20:50:52.408Z,Yes,Other,WhatsApp,Switching careers,,No,"Excel, JavaScript, Java, PHP, SQL",Computer Science,Yes,Yes,Yes
+9060617e-ce95-11eb-bd26-7c67a234f601,male,44,Port-au-Prince,2021-02-21 22:33:55.442235+00:00,2021-02-21T22:48:34.851Z,Yes,Bachelors (bacc +4),Friend,Finding a job/internship,,No,"R, Python, Java, JavaScript, SQL, Excel, Git",Computer Science,unknown,Yes,Yes
+906073cb-ce95-11eb-acb0-7c67a234f601,male,34,Port-au-Prince,2021-02-21 22:53:29.419931+00:00,,No,Masters,Facebook,Improving my data analysis skills,,No,"Excel, Python, Java","Management, other",unknown,Yes,Yes
+906073cc-ce95-11eb-aac4-7c67a234f601,male,32,Port-au-Prince,2021-02-22 01:50:26.945419+00:00,,No,Bachelors (bacc +4),Friend,Improving my data analysis skills,,No,"JavaScript, PHP, SQL, Git, Excel",Computer Science,unknown,Yes,Yes
+90609554-ce95-11eb-a24a-7c67a234f601,female,20,Port-au-Prince,2021-02-22 21:47:38.898198+00:00,2021-03-02T02:49:24.538Z,Yes,Other,Friend,Finding a job/internship,2021-03-02T02:49:24.780Z,Yes,Excel,other,unknown,Yes,No
+90609555-ce95-11eb-b61a-7c67a234f601,female,22,Port-au-Prince,2021-02-22 22:01:34.542190+00:00,,No,Other,Friend,Finding a job/internship,,No,Excel,Law,unknown,Yes,No
+9060c2e6-ce95-11eb-b8b8-7c67a234f601,female,25,Port-au-Prince,2021-02-23 15:19:56.513813+00:00,2021-02-23T20:50:47.228Z,Yes,Bachelors (bacc +4),Bootcamp Alumni,Finding a job/internship,2021-02-23T20:50:47.515Z,Yes,Excel,other,Yes,Yes,Yes
+9060cbb2-ce95-11eb-bac1-7c67a234f601,female,24,Port-au-Prince,2021-02-23 17:29:42.775198+00:00,,No,Bachelors (bacc +4),WhatsApp,Switching careers,,No,"Python, Excel",Management,unknown,Yes,Yes
+9060e347-ce95-11eb-abbb-7c67a234f601,male,-1,Port-au-Prince,2021-02-23 21:17:28.855652+00:00,2021-02-23T21:24:00.017Z,Yes,Other,WhatsApp,Training to start my own company,2021-02-25T23:57:16.634Z,Yes,"R, Excel",Medicine,unknown,Yes,Yes
+90610a3c-ce95-11eb-a50e-7c67a234f601,female,23,Port-au-Prince,2021-02-23 23:28:40.631937+00:00,2021-03-04T02:08:06.247Z,Yes,Other,Bootcamp Alumni,Switching careers,2021-03-04T02:08:06.582Z,Yes,Excel,other,Yes,Yes,No
+90611cd3-ce95-11eb-bebc-7c67a234f601,female,22,Port-au-Prince,2021-02-24 12:10:24.262754+00:00,2021-02-24T12:20:49.929Z,Yes,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,2021-03-07T12:43:08.911Z,Yes,Excel,"Management, Law",unknown,Yes,Yes
+90611cd4-ce95-11eb-a328-7c67a234f601,male,31,Port-au-Prince,2021-02-24 13:29:35.128378+00:00,,No,Bachelors (bacc +4),Friend,Training to start my own company,,No,"JavaScript, Excel","Accounting, Management, other",unknown,Yes,Yes
+9061312a-ce95-11eb-ba28-7c67a234f601,male,24,Port-au-Prince,2021-02-24 21:05:46.442805+00:00,2021-02-24T21:22:16.056Z,Yes,Bachelors (bacc +4),other,Improving my data analysis skills,2021-02-24T21:22:15.936Z,Yes,"Excel, other",Management,unknown,No,No
+90614c17-ce95-11eb-b604-7c67a234f601,male,25,Port-au-Prince,2021-02-25 04:07:44.843346+00:00,2021-02-25T04:14:40.539Z,Yes,Other,Friend,Improving my data analysis skills,2021-03-02T21:28:21.815Z,Yes,Excel,Medicine,unknown,Yes,Yes
+9061581f-ce95-11eb-af12-7c67a234f601,male,26,Port-au-Prince,2021-02-25 17:05:05.961903+00:00,2021-03-12T16:40:47.519Z,Yes,Bachelors (bacc +4),ESIH,Improving my data analysis skills,2021-03-12T16:40:47.723Z,Yes,"Java, PHP, SQL, Excel, other","Computer Science, other",unknown,Yes,Yes
+90615820-ce95-11eb-9088-7c67a234f601,male,31,Port-au-Prince,2021-02-25 21:59:09.594310+00:00,,No,Other,Facebook,Switching careers,,No,"JavaScript, Excel, Python, Java, SQL, PHP, other","Accounting, other",Yes,Yes,Yes
+906178f8-ce95-11eb-95e9-7c67a234f601,male,24,Port-au-Prince,2021-02-28 15:21:56.910820+00:00,2021-03-01T14:02:26.445Z,Yes,High School (16 years),Facebook,Improving my data analysis skills,,No,Python,"Statistics, Economics",unknown,Yes,Yes
+90617f12-ce95-11eb-a3c8-7c67a234f601,male,33,Port-au-Prince,2021-03-02 18:43:17.761758+00:00,2021-02-25T15:36:30.914Z,Yes,Bachelors (bacc +4),Facebook,Improving my data analysis skills,2021-02-25T15:36:26.464Z,Yes,"Excel, other",Accounting,Yes,Yes,Yes
+90617f13-ce95-11eb-bc4e-7c67a234f601,male,24,Port-au-Prince,2021-03-02 18:58:04.715477+00:00,2021-02-23T02:02:23.225Z,Yes,Other,WhatsApp,other,2021-02-23T02:02:23.482Z,Yes,"Excel, Python",Law,Yes,Yes,Yes
+9061a61c-ce95-11eb-ba30-7c67a234f601,male,19,Port-au-Prince,2021-03-03 00:51:40.622658+00:00,,No,High School (16 years),other,Finding a job/internship,,No,Excel,Management,unknown,Yes,Yes
+9061a61d-ce95-11eb-a939-7c67a234f601,female,25,Port-au-Prince,2021-03-03 15:15:26.637776+00:00,2021-02-19T13:38:47.624Z,Yes,Bachelors (bacc +4),other,Mentorship,2021-02-20T12:25:24.229Z,Yes,"R, Python, Excel, Git, other, SQL","Statistics, Economics",unknown,Yes,Yes
+9061d752-ce95-11eb-afc7-7c67a234f601,male,24,Port-au-Prince,2021-03-03 22:42:45.136856+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,Excel,Economics,unknown,Yes,Yes
+9061d753-ce95-11eb-967a-7c67a234f601,male,20,Port-au-Prince,2021-03-04 00:47:43.600372+00:00,2021-02-07T04:16:04.381Z,Yes,High School (16 years),Friend,Improving my data analysis skills,2021-02-12T14:04:48Z,Yes,"Python, Excel, other, SQL","Computer Science, other",unknown,Yes,Yes
+9061d754-ce95-11eb-a086-7c67a234f601,male,25,Port-au-Prince,2021-03-08 19:34:41.350610+00:00,,No,Bachelors (bacc +4),LinkedIn,Finding a job/internship,,No,"JavaScript, Java, SQL, PHP, Excel, Git",Computer Science,Yes,Yes,Yes
+9061f3ee-ce95-11eb-a9d9-7c67a234f601,male,25,Port-au-Prince,2021-03-09 17:52:36.737619+00:00,,No,High School (16 years),Facebook,Improving my data analysis skills,,No,"JavaScript, Java, Excel",Computer Science,unknown,Yes,Yes
+90620452-ce95-11eb-9ec8-7c67a234f601,male,23,Port-au-Prince,2021-03-10 03:57:01.435046+00:00,,No,Bachelors (bacc +4),WhatsApp,Training to start my own company,,No,Excel,other,unknown,Yes,Yes
+90620453-ce95-11eb-bb57-7c67a234f601,male,27,Port-au-Prince,2021-03-10 10:53:17.282688+00:00,,No,unknown,Ayiti Analytics Website,Improving my data analysis skills,,No,"SQL, Excel, PHP, JavaScript","Electrical Engineering, Computer Science, Management",Yes,Yes,Yes
+90621ae1-ce95-11eb-8a7d-7c67a234f601,male,34,Port-au-Prince,2021-03-10 15:20:49.292892+00:00,,No,Masters,WhatsApp,Improving my data analysis skills,,No,"Bash, Excel, SQL",Computer Science,unknown,Yes,Yes
+90622d22-ce95-11eb-a50b-7c67a234f601,male,31,Port-au-Prince,2021-03-10 18:16:01.300116+00:00,,No,Other,LinkedIn,Improving my data analysis skills,,No,"Python, PHP, Excel, other","Electrical Engineering, Economics",unknown,Yes,No
+90622d23-ce95-11eb-8598-7c67a234f601,male,18,Port-au-Prince,2021-03-11 19:30:51.908260+00:00,,No,High School (16 years),Friend,Improving my data analysis skills,,No,JavaScript,,unknown,Yes,Yes
+906241d4-ce95-11eb-a1eb-7c67a234f601,male,24,Port-au-Prince,2021-03-11 20:22:03.513144+00:00,,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,,No,"Excel, PowerBI or Tableau",Accounting,Yes,Yes,Yes
+906241d5-ce95-11eb-9850-7c67a234f601,male,-1,Port-au-Prince,2021-03-14 07:29:17.391699+00:00,2021-03-14T07:34:09.491Z,Yes,Bachelors (bacc +4),ESIH,other,2021-03-14T07:34:09.638Z,Yes,"Java, PHP, SQL, Excel, Git, JavaScript","Computer Science, Management",unknown,Yes,Yes
+9069ddd7-ce95-11eb-859c-7c67a234f601,male,29,Port-Salut,2021-02-19 02:38:19.077533+00:00,,No,Other,Friend,Improving my data analysis skills,,No,"other, Excel",other,unknown,No,No
+906b173a-ce95-11eb-b3d4-7c67a234f601,male,23,Saint-Louis du Nord,2021-02-27 14:32:11.637371+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"Excel, SQL, Python",Computer Science,unknown,Yes,Yes
+906a04cb-ce95-11eb-9bc2-7c67a234f601,male,34,Saint-Marc,2021-02-19 17:47:41.991147+00:00,,No,Bachelors (bacc +4),other,Finding a job/internship,,No,"R, Python, Excel, SQL, VBA",Computer Science,Yes,Yes,Yes
+906a04cc-ce95-11eb-b561-7c67a234f601,male,21,Saint-Marc,2021-02-24 17:40:07.808547+00:00,,No,High School (16 years),Facebook,Improving my data analysis skills,,No,"Python, PHP",Computer Science,Yes,Yes,Yes
+906a2d3f-ce95-11eb-a1ba-7c67a234f601,male,32,Saint-Marc,2021-03-04 03:28:00.549687+00:00,,No,Bachelors (bacc +4),Facebook,Improving my data analysis skills,,No,"Excel, other",Computer Science,unknown,Yes,Yes
+906a2d40-ce95-11eb-bee9-7c67a234f601,male,32,Saint-Marc,2021-03-07 16:55:32.968860+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"Excel, other",Computer Science,Yes,Yes,Yes
+9069ddd8-ce95-11eb-b0fb-7c67a234f601,male,-1,Sainte Suzanne,2021-02-19 03:13:38.498837+00:00,,No,Bachelors (bacc +4),Facebook,Finding a job/internship,,No,"Excel, other",other,unknown,Yes,Yes
+906636d1-ce95-11eb-8379-7c67a234f601,male,26,Tabarre,2021-02-16 15:58:42.955395+00:00,,No,Bachelors (bacc +4),Friend,Training to start my own company,,No,Excel,other,Yes,Yes,Yes
+90665dbc-ce95-11eb-8162-7c67a234f601,male,28,Tabarre,2021-02-17 00:22:37.384150+00:00,2021-02-24T01:16:40.350Z,Yes,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,2021-02-24T01:16:40.567Z,Yes,Excel,Statistics,unknown,Yes,No
+90665dbd-ce95-11eb-bcc1-7c67a234f601,male,24,Tabarre,2021-02-17 01:14:58.145925+00:00,2021-02-18T13:59:40.515Z,Yes,Other,WhatsApp,Improving my data analysis skills,2021-02-18T14:04:48.071Z,Yes,"Excel, Python","Economics, Computer Science",unknown,Yes,Yes
+90665dbe-ce95-11eb-b66a-7c67a234f601,female,21,Tabarre,2021-02-17 14:51:32.832668+00:00,,No,High School (16 years),other,Improving my data analysis skills,,No,Python,Statistics,unknown,Yes,Yes
+90665dbf-ce95-11eb-a9b5-7c67a234f601,female,22,Tabarre,2021-02-17 16:11:40.249899+00:00,,No,Bachelors (bacc +4),ESIH,Training to start my own company,,No,"Java, SQL, Excel",Computer Science,unknown,Yes,Yes
+90665dc0-ce95-11eb-926f-7c67a234f601,male,27,Tabarre,2021-02-18 15:26:08.078345+00:00,2021-02-18T16:15:28.758Z,Yes,Bachelors (bacc +4),WhatsApp,Finding a job/internship,2021-02-24T15:38:34.262Z,Yes,"Python, Excel, SQL, Git, Java","Computer Science, Management",unknown,Yes,Yes
+90668798-ce95-11eb-86fc-7c67a234f601,female,28,Tabarre,2021-02-18 23:54:03.283435+00:00,2021-02-19T00:47:03.092Z,Yes,Masters,Friend,Improving my data analysis skills,2021-02-19T00:47:03.242Z,Yes,"Java, PHP, SQL, Excel",Computer Science,unknown,Yes,Yes
+90668799-ce95-11eb-b4ec-7c67a234f601,male,21,Tabarre,2021-03-03 15:18:22.916744+00:00,,No,High School (16 years),Facebook,Improving my data analysis skills,,No,Excel,other,unknown,Yes,Yes
+9066879a-ce95-11eb-bafa-7c67a234f601,male,22,Tabarre,2021-03-06 17:41:23.128794+00:00,,No,Bachelors (bacc +4),Ayiti Analytics Website,Improving my data analysis skills,,No,Java,Statistics,unknown,Yes,Yes
+9066879b-ce95-11eb-9d4a-7c67a234f601,male,32,Tabarre,2021-03-07 15:27:02.670785+00:00,,No,Bachelors (bacc +4),LinkedIn,Improving my data analysis skills,,No,"Excel, SQL, PHP, Java, other","Management, Economics",unknown,Yes,No
+9066abb5-ce95-11eb-aa16-7c67a234f601,male,23,Tabarre,2021-03-09 01:06:07.021925+00:00,,No,Bachelors (bacc +4),WhatsApp,Improving my data analysis skills,,No,"R, Python, Excel, Java","Statistics, Economics",unknown,Yes,Yes
+906a52b7-ce95-11eb-9c4b-7c67a234f601,male,40,Verrettes,2021-02-21 05:31:23.972463+00:00,2021-03-01T23:25:47.412Z,Yes,Other,WhatsApp,Improving my data analysis skills,2021-03-01T23:34:27.375Z,Yes,"Java, SQL, VBA, Excel","Computer Science, Law",Yes,Yes,Yes
+906a79ab-ce95-11eb-a1b8-7c67a234f601,male,37,Verrettes,2021-02-22 21:59:40.856380+00:00,2021-03-05T21:49:43.074Z,Yes,Other,WhatsApp,Improving my data analysis skills,2021-03-05T21:49:43.238Z,Yes,"Java, PHP, VBA, SQL, Excel",Computer Science,Yes,Yes,Yes
+906a79ac-ce95-11eb-9f8a-7c67a234f601,male,35,Verrettes,2021-03-04 22:38:28.831351+00:00,2021-03-05T21:34:14.111Z,Yes,Bachelors (bacc +4),Friend,Improving my data analysis skills,2021-03-05T21:34:14.240Z,Yes,"Java, PHP, VBA, SQL, Excel",Computer Science,Yes,Yes,Yes
+,,,,,2020-12-12T06:41:29.844Z,Yes,,,,,No,,,,,
+,,,,,2020-12-13T14:41:17.720Z,Yes,,,,,No,,,,,
+,,,,,2020-12-15T00:53:06.499Z,Yes,,,,,No,,,,,
+,,,,,2020-12-18T18:38:55.683Z,Yes,,,,,No,,,,,
+,,,,,2020-12-21T14:45:06.528Z,Yes,,,,,No,,,,,
+,,,,,2020-12-22T16:47:26.199Z,Yes,,,,,No,,,,,
+,,,,,2021-01-04T22:18:38.182Z,Yes,,,,,No,,,,,
+,,,,,2021-01-05T04:00:45.795Z,Yes,,,,2021-01-05T04:00:41.222Z,Yes,,,,,
+,,,,,2021-01-10T01:21:21.563Z,Yes,,,,,No,,,,,
+,,,,,2021-01-27T23:57:34.943Z,Yes,,,,,No,,,,,
+,,,,,2021-01-28T02:43:47.014Z,Yes,,,,,No,,,,,
+,,,,,2021-01-31T15:13:40.159Z,Yes,,,,,No,,,,,
+,,,,,2021-02-05T20:03:10.285Z,Yes,,,,,No,,,,,
+,,,,,2021-02-06T16:42:07.850Z,Yes,,,,,No,,,,,
+,,,,,2021-02-16T21:20:39.296Z,Yes,,,,,No,,,,,
+,,,,,2021-02-17T13:48:42.854Z,Yes,,,,2021-02-17T13:48:38.371Z,Yes,,,,,
+,,,,,2021-02-18T00:23:02.499Z,Yes,,,,,No,,,,,
+,,,,,2021-02-18T16:09:56.118Z,Yes,,,,,No,,,,,
+,,,,,2021-02-19T09:03:02.014Z,Yes,,,,,No,,,,,
+,,,,,2021-02-19T12:36:58.565Z,Yes,,,,2021-02-23T15:55:16.310Z,Yes,,,,,
+,,,,,2021-02-19T17:43:32.127Z,Yes,,,,,No,,,,,
+,,,,,2021-02-19T19:21:26.044Z,Yes,,,,,No,,,,,
+,,,,,2021-02-20T00:58:42.295Z,Yes,,,,,No,,,,,
+,,,,,2021-02-20T22:59:52.740Z,Yes,,,,2021-02-20T22:59:46.749Z,Yes,,,,,
+,,,,,2021-02-21T23:27:56.542Z,Yes,,,,,No,,,,,
+,,,,,2021-02-23T11:38:18.566Z,Yes,,,,,No,,,,,
+,,,,,2021-02-24T17:43:57.651Z,Yes,,,,,No,,,,,
+,,,,,2021-02-25T00:13:28.546Z,Yes,,,,,No,,,,,
+,,,,,2021-02-27T20:01:27.509Z,Yes,,,,2021-02-27T20:01:27.976Z,Yes,,,,,
+,,,,,2021-03-02T03:37:44.544Z,Yes,,,,,No,,,,,
+,,,,,2021-03-02T15:54:35.489Z,Yes,,,,,No,,,,,
+,,,,,2021-03-02T21:05:29.667Z,Yes,,,,,No,,,,,
+,,,,,2021-03-02T22:21:45.793Z,Yes,,,,,No,,,,,
+,,,,,2021-03-02T23:55:58.835Z,Yes,,,,,No,,,,,
+,,,,,2021-03-03T00:02:37.687Z,Yes,,,,,No,,,,,
+,,,,,2021-03-03T00:32:11.563Z,Yes,,,,,No,,,,,
+,,,,,2021-03-03T01:00:20.847Z,Yes,,,,2021-03-03T01:00:21.024Z,Yes,,,,,
+,,,,,2021-03-03T14:07:05.649Z,Yes,,,,,No,,,,,
+,,,,,2021-03-03T14:38:09.069Z,Yes,,,,2021-03-03T14:38:09.225Z,Yes,,,,,
+,,,,,2021-03-03T16:21:53.606Z,Yes,,,,,No,,,,,
+,,,,,2021-03-04T22:19:12.075Z,Yes,,,,,No,,,,,
+,,,,,2021-03-08T22:10:00.648Z,Yes,,,,2021-03-08T22:10:00.796Z,Yes,,,,,
+,,,,,2021-03-11T18:17:55.814Z,Yes,,,,2021-03-11T18:17:56.004Z,Yes,,,,,
+,,,,,2021-03-12T20:25:22.271Z,Yes,,,,2021-03-12T20:25:22.517Z,Yes,,,,,
+,,,,,2021-03-13T00:48:13.622Z,Yes,,,,2021-03-13T00:48:13.726Z,Yes,,,,,
+,,,,,2021-03-14T17:34:44.861Z,Yes,,,,2021-03-14T17:34:45.179Z,Yes,,,,,
+,,,,,,No,,,,2021-02-25T04:45:53.407Z,Yes,,,,,
