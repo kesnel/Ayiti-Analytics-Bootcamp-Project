@@ -1,7 +1,7 @@
 <div align=center>
  <img src="https://img.shields.io/github/last-commit/kesnel/Ayiti-Analytics-Bootcamp-Project" />
- <img src="https://img.shields.io/github/license/kesnel/Ayiti-Analytics-Bootcamp-Project" />
 </div>
+ <img src="https://img.shields.io/github/license/kesnel/Ayiti-Analytics-Bootcamp-Project" />
 
 <h1> Ayiti Analytics Probability and Statistics Project </h1>
 
