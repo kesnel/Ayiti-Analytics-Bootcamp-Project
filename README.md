@@ -1,6 +1,7 @@
 <div align=center>
  <img src="https://img.shields.io/github/last-commit/kesnel/Ayiti-Analytics-Bootcamp-Project" />
- <img src="https://img.shields.io/github/license/kesnel/Ayiti-Analytics-Bootcamp-Project?style=plastic" />
+ <img src="https://img.shields.io/github/license/kesnel/Ayiti-Analytics-Bootcamp-Project?style=social" />
+ <img src="https://img.shields.io/github/languages/count/kesnel/Ayiti-Analytics-Bootcamp-Project" />
 </div>
 
 
